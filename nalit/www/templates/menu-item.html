@@ -1,0 +1,18 @@
+<ion-view view-title="Home">
+  <ion-content scroll="false">
+    <ion-list ng-controller="MainCtrl" class="home-menu">
+      <ion-item ng-repeat="item in menuItems" href="#" class="item-dark">
+        <div class="item-container">
+          <div class="icon icon-container">
+            <i class="icon ion-{{ item.icon }}"></i>
+          </div>
+
+          <div class="content-container">
+            <h1>{{ item.name }}</h1>
+            <p>{{ item.subText }}</p>
+          </div>
+        </div>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

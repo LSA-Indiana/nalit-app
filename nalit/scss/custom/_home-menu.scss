@@ -1,0 +1,95 @@
+.home-menu {
+    height: 100%;
+
+    .content-container {
+        display: flex;
+        flex-direction: column;
+        flex:1;
+        height: 100%;
+        justify-content: center;
+    }
+
+    .icon-container {
+        background: $assertive;
+        border-radius: 0px;
+        color: #fff;
+        display: block;
+        display: flex;
+        flex-direction: column;
+        flex:1;
+        float: left;
+        height: 100%;
+        justify-content: center;
+        margin-left: -3%;
+        margin-right: 5%;
+        padding: 30px;
+        text-align: center;
+        transform: skew(-30deg);
+        width: 50%;
+
+        .icon {
+            font-size: 3.5rem !important;
+            transform: skew(30deg);
+        }
+    }
+
+    .item {
+        background: $dark;
+        border: none;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        justify-content: center;
+        margin: 5px 0 0;
+
+        h1 {
+            color: #fff;
+            font-size: 1.6rem;
+            margin-bottom: 0;
+        }
+
+        p {
+            color: #fff;
+            font-size: 1rem;
+        }
+    }
+
+    .item-container {
+        height: 100%;
+    }
+
+    .item-content {
+        height: 100%;
+        padding: 0;
+    }
+
+    .list {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        height: 100%;
+        justify-content: center;
+    }
+
+    @media screen and (min-width: 360px) {
+        .icon-container {
+            padding: 4% 0;
+            text-align: center;
+            width: 30%;
+
+            .icon {
+                font-size: 4.5rem !important;
+            }
+        }
+
+        .item {
+            h1 {
+                font-size: 2.4rem;
+            }
+
+            p {
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
