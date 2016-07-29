@@ -9825,12 +9825,12 @@ a.button {
     flex-direction: column;
     flex: 1;
     height: 100%;
-    justify-content: center; }
+    justify-content: center;
+    padding-left: 10%; }
   .home-menu .icon-container {
     background: #FA7531;
     border-radius: 0px;
     color: #fff;
-    display: block;
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -9838,14 +9838,12 @@ a.button {
     height: 100%;
     justify-content: center;
     margin-left: -3%;
-    margin-right: 5%;
-    padding: 30px;
     text-align: center;
-    transform: skew(-30deg);
-    width: 50%; }
+    transform: skew(-25deg);
+    width: 30%; }
     .home-menu .icon-container .icon {
-      font-size: 3.5rem !important;
-      transform: skew(30deg); }
+      font-size: 3rem !important;
+      transform: skew(25deg); }
   .home-menu .item {
     background: #465B76;
     border: none;
@@ -9874,11 +9872,9 @@ a.button {
     justify-content: center; }
   @media screen and (min-width: 360px) {
     .home-menu .icon-container {
-      padding: 4% 0;
-      text-align: center;
-      width: 30%; }
+      width: 32%; }
       .home-menu .icon-container .icon {
-        font-size: 4.5rem !important; }
+        font-size: 4rem !important; }
     .home-menu .item h1 {
       font-size: 2.4rem; }
     .home-menu .item p {

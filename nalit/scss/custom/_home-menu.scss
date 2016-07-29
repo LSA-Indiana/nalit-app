@@ -7,13 +7,13 @@
         flex:1;
         height: 100%;
         justify-content: center;
+        padding-left: 10%;
     }
 
     .icon-container {
         background: $assertive;
         border-radius: 0px;
         color: #fff;
-        display: block;
         display: flex;
         flex-direction: column;
         flex:1;
@@ -21,15 +21,13 @@
         height: 100%;
         justify-content: center;
         margin-left: -3%;
-        margin-right: 5%;
-        padding: 30px;
         text-align: center;
-        transform: skew(-30deg);
-        width: 50%;
+        transform: skew(-25deg);
+        width: 30%;
 
         .icon {
-            font-size: 3.5rem !important;
-            transform: skew(30deg);
+            font-size: 3rem !important;
+            transform: skew(25deg);
         }
     }
 
@@ -73,12 +71,10 @@
 
     @media screen and (min-width: 360px) {
         .icon-container {
-            padding: 4% 0;
-            text-align: center;
-            width: 30%;
+            width: 32%;
 
             .icon {
-                font-size: 4.5rem !important;
+                font-size: 4rem !important;
             }
         }
 
