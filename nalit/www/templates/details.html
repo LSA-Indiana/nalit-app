@@ -1,0 +1,30 @@
+<ion-view view-title="Nalit 2016, Indianapolis | {{data.name}}">
+  <ion-content class="">
+    <header>
+      <div class="icon icon-container">
+        <i class="icon ion-{{ data.icon }}"></i>
+      </div>
+      <h1>{{data.name}}</h1>
+      <p>{{data.subText}}</p>
+      <a href="#/home"><i class="icon ion-close-circled"></i></a>
+    </header>
+    <ion-list ng-controller="InternalCtrl" class="home-menu">
+      <div ng-repeat="group in data.sub_items">
+        <div ng-class="isItemShown(item) ? 'item-expand active' : 'item-expand inactive'">
+            <ion-item class="item-dark"
+                      ng-click="toggleGroup(group)"
+                      ng-class="{active: isGroupShown(group)}">
+              <h2>{{group.title}}</h2>
+              <i class="icon" ng-class="isGroupShown(group) ? 'ion-minus' : 'ion-plus'"></i>
+            </ion-item>
+            <ion-item class="item-accordion item-dark"
+                      ng-repeat="item in group.list"
+                      ng-show="isGroupShown(group)">
+              <h2>{{item.name}}</h2>
+              <p>{{item.description}}</p>
+            </ion-item>
+        </div>
+      </div>
+    </ion-list>
+  </ion-content>
+</ion-view>

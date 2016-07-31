@@ -1,8 +1,10 @@
-<ion-view view-title="Home">
+<ion-view view-title="Nalit 2016, Indianapolis">
   <ion-content scroll="false">
     <ion-list ng-controller="MainCtrl" class="home-menu">
-      <ion-item ng-repeat="item in menuItems" href="#" class="item-dark">
-        <div class="item-container">
+      <ion-item ng-repeat="item in data"
+                href="#/page/{{item.id}}"
+                class="item-dark">
+        <div onSwipeRight(item.id) class="item-container">
           <div class="icon icon-container">
             <i class="icon ion-{{ item.icon }}"></i>
           </div>

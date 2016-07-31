@@ -9850,8 +9850,10 @@ a.button {
     display: flex;
     flex-direction: column;
     flex: 1;
+    height: 33%;
     justify-content: center;
-    margin: 5px 0 0; }
+    margin: 5px 0 0;
+    width: 100%; }
     .home-menu .item h1 {
       color: #fff;
       font-size: 1.6rem;

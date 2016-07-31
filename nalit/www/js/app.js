@@ -26,10 +26,16 @@ app.config(function($stateProvider, $urlRouterProvider) {
   // Each state's controller can be found in controllers.js
   $stateProvider
 
-  .state('menu', {
+  .state('all', {
     url: '/home',
     templateUrl: 'templates/menu-item.html',
     controller: 'MainCtrl'
+  })
+
+  .state('get', {
+    url: '/page/:itemId',
+    templateUrl: 'templates/details.html',
+    controller: 'InternalCtrl'
   });
 
   // if none of the above states are matched, use this as the fallback
