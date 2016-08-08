@@ -1,0 +1,42 @@
+.details {
+    height: 100%;
+
+    .details-header {
+        height: 12%;
+        background: $dark;
+        overflow: hidden;
+        margin: 5px 0;
+    }
+
+    .content-container {
+        display: flex;
+        flex-direction: column;
+        flex:1;
+        float: left;
+        height: 100%;
+        justify-content: center;
+        padding: 0 0 0 7%;
+
+        p {
+            margin: 0;
+        }
+    }
+
+    .active + .scroll-view {
+        height: 44vh;
+    }
+
+    .list {
+        height: 100%;
+    }
+
+    .icon-container {
+        margin-left: 2%;
+        width: 20%;
+        height: 100%;
+
+        .icon {
+            font-size: 3rem !important;
+        }
+    }
+}

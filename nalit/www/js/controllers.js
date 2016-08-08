@@ -14,7 +14,7 @@ angular.module('nalit.controllers', ['nalit.services'])
     }
 })
 
-.controller('InternalCtrl', function($scope, $stateParams, Data) {
+.controller('InternalCtrl', function($scope, $stateParams, Data, $ionicScrollDelegate) {
     var itemId = $stateParams.itemId;
 
     Data.get(itemId).then(function(response) {
@@ -31,6 +31,12 @@ angular.module('nalit.controllers', ['nalit.services'])
         } else {
             $scope.shownGroup = group;
         }
+
+        $scope.reCalculateSize = function() {
+            $ionicScrollDelegate.resize();
+        };
+
+        // $ionicScrollDelegate.scrollTop();
     };
     $scope.isGroupShown = function(group) {
         return $scope.shownGroup === group;

@@ -1,0 +1,52 @@
+.icon-container {
+    background: $assertive;
+    border-radius: 0px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    float: left;
+    height: 100%;
+    justify-content: center;
+    margin-left: -3%;
+    text-align: center;
+    transform: skew(-25deg);
+    width: 30%;
+
+    .icon {
+        font-size: 3rem !important;
+        transform: skew(25deg);
+    }
+
+    @media screen and (min-width: 360px) {
+        width: 32%;
+
+        .icon {
+            font-size: 4rem !important;
+        }
+    }
+}
+
+.icon-close-link {
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    float: right;
+    height: 100%;
+    justify-content: center;
+    font-size: 3rem;
+    padding: 0 4%;
+    color: $calm;
+    z-index: 100;
+}
+
+.icon-plus-minus {
+    font-size: 2.5rem;
+    padding: 0 5%;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    color: $calm;
+    z-index: 100;
+}
