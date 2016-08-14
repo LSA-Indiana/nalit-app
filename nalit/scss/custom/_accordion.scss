@@ -1,5 +1,6 @@
 .list .item.item-accordion {
     background: $calm;
+    overflow: hidden;
     transition: 0.09s all linear;
 
     h3, p {

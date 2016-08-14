@@ -9817,6 +9817,7 @@ a.button {
 
 .list .item.item-accordion {
   background: #A1B3CA;
+  overflow: hidden;
   transition: 0.09s all linear; }
   .list .item.item-accordion h3, .list .item.item-accordion p {
     text-overflow: initial;
@@ -9929,6 +9930,7 @@ a.button {
 
 .details .list {
   height: 87%;
+  overflow-x: hidden;
   overflow-y: scroll; }
 
 .details .icon-container {
