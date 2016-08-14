@@ -9818,6 +9818,9 @@ a.button {
 .list .item.item-accordion {
   background: #A1B3CA;
   transition: 0.09s all linear; }
+  .list .item.item-accordion h3, .list .item.item-accordion p {
+    text-overflow: initial;
+    white-space: normal; }
 
 .list .item.item-accordion.ng-hide {
   line-height: 0px; }
@@ -9846,7 +9849,7 @@ a.button {
     flex: 1;
     height: 33%;
     justify-content: center;
-    margin: 5px 0 0;
+    margin: 1% 0 0;
     width: 100%; }
   .home-menu .item-container {
     height: 100%; }

@@ -1,11 +1,17 @@
 .list .item.item-accordion {
-  background: $calm;
-  transition: 0.09s all linear;
+    background: $calm;
+    transition: 0.09s all linear;
+
+    h3, p {
+        // color: $dark !important;
+        text-overflow: initial;
+        white-space: normal;
+    }
 }
 .list .item.item-accordion.ng-hide {
-  line-height: 0px;
+    line-height: 0px;
 }
 .list .item.item-accordion.ng-hide-add,
 .list .item.item-accordion.ng-hide-remove {
-  display: block !important;
+    display: block !important;
 }
