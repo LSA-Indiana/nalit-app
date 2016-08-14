@@ -21,6 +21,10 @@ angular.module('nalit.controllers', ['nalit.services'])
         $scope.data = response;
     });
 
+    // if(angular.element('btn-help').hasClass('active')){
+    //     alert();
+    // }
+
     /*
     * if given group is the selected group, deselect it
     * else, select the given group

@@ -1,11 +1,10 @@
 .details {
-    height: 100%;
+    // height: 100%;
 
     .details-header {
         height: 12%;
         background: $dark;
-        overflow: hidden;
-        margin: 5px 0;
+        margin: 1% 0;
     }
 
     .content-container {
@@ -22,12 +21,9 @@
         }
     }
 
-    .active + .scroll-view {
-        height: 44vh;
-    }
-
     .list {
-        height: 100%;
+        height: 87%;
+        overflow-y: scroll;
     }
 
     .icon-container {

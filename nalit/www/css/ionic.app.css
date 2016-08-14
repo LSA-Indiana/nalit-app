@@ -9815,8 +9815,16 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
-.item-accordion {
-  background: #A1B3CA; }
+.list .item.item-accordion {
+  background: #A1B3CA;
+  transition: 0.09s all linear; }
+
+.list .item.item-accordion.ng-hide {
+  line-height: 0px; }
+
+.list .item.item-accordion.ng-hide-add,
+.list .item.item-accordion.ng-hide-remove {
+  display: block !important; }
 
 .button.button-assertive {
   border: 1px solid #465B76; }
@@ -9900,33 +9908,32 @@ a.button {
   color: #A1B3CA;
   z-index: 100; }
 
-.details {
+.details .details-header {
+  height: 12%;
+  background: #465B76;
+  margin: 1% 0; }
+
+.details .content-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  float: left;
+  height: 100%;
+  justify-content: center;
+  padding: 0 0 0 7%; }
+  .details .content-container p {
+    margin: 0; }
+
+.details .list {
+  height: 87%;
+  overflow-y: scroll; }
+
+.details .icon-container {
+  margin-left: 2%;
+  width: 20%;
   height: 100%; }
-  .details .details-header {
-    height: 12%;
-    background: #465B76;
-    overflow: hidden;
-    margin: 5px 0; }
-  .details .content-container {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    float: left;
-    height: 100%;
-    justify-content: center;
-    padding: 0 0 0 7%; }
-    .details .content-container p {
-      margin: 0; }
-  .details .active + .scroll-view {
-    height: 44vh; }
-  .details .list {
-    height: 100%; }
-  .details .icon-container {
-    margin-left: 2%;
-    width: 20%;
-    height: 100%; }
-    .details .icon-container .icon {
-      font-size: 3rem !important; }
+  .details .icon-container .icon {
+    font-size: 3rem !important; }
 
 .item h1,
 .item-content h1,

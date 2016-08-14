@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes">
     <title>NALIT 2016</title>
 
     <link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
@@ -42,7 +44,7 @@
       <ion-header-bar class="bar-calm">
         <h1 class="title">NALIT 2016 | Indianapolis</h1>
 
-        <a class="button button-assertive" href="#/page/3">
+        <a class="button button-assertive" ui-sref="help({ itemId: '3' })" ui-sref-toggle="true" ui-sref-active="active" id="btn-help">
           HELP
         </a>
       </ion-header-bar>

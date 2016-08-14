@@ -98,7 +98,7 @@
         "icon": "calendar",
         "sub_items": [
             {
-                "title": "Day 1",
+                "title": "Monday, Sept. 12",
                 "list": [
                     {
                         "name": "Registration",
@@ -150,7 +150,7 @@
                     }
                 ]
             }, {
-                "title": "Day 2",
+                "title": "Tuesday, Sept. 13",
                 "list": [
                     {
                         "name": "Title",
@@ -250,7 +250,7 @@
                     }
                 ]
             }, {
-                "title": "Day 3",
+                "title": "Wednesday, Sept. 14",
                 "list": [
                     {
                         "name": "Title",
@@ -318,7 +318,7 @@
                     }
                 ]
             }, {
-                "title": "Day 4",
+                "title": "Thursday, Sept. 15",
                 "list": [
                     {
                         "name": "Title",

@@ -27,7 +27,7 @@ app.config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
 
   .state('all', {
-    url: '/home',
+    url: '/',
     templateUrl: 'templates/menu-item.html',
     controller: 'MainCtrl'
   })
@@ -36,8 +36,14 @@ app.config(function($stateProvider, $urlRouterProvider) {
     url: '/page/:itemId',
     templateUrl: 'templates/details.html',
     controller: 'InternalCtrl'
+  })
+
+  .state('help', {
+    url: '/help/:itemId',
+    templateUrl: 'templates/details.html',
+    controller: 'InternalCtrl'
   });
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/home');
+  $urlRouterProvider.otherwise('/');
 });
