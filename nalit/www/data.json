@@ -12,26 +12,31 @@
                     {
                         "name": "Circle Center Food Court",
                         "description": "Multiple options to eat while you shop.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Sun King Brewery",
                         "description": "The largest brewery in Indiana.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Slippery Noodle",
                         "description": "Indiana's oldest bar and home of the Blues.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "St. Elmo Steak House",
                         "description": "The oldest steakhouse in Indiana.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Other",
                         "description": "Eat something",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -41,22 +46,27 @@
                     {
                         "name": "Circle Center Mall",
                         "description": "A variety of shops, just down the street.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }, {
                         "name": "Silver in the City",
                         "description": "A place to find Indianapolis souveniers.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }, {
                         "name": "The Fahion Mall",
-                        "description": "The Place to go for high-end shopping.",
+                        "description": "The place to go for high-end shopping.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }, {
                         "name": "Midland Arts and Antiques Market",
                         "description": "Find one-of-a-kind vintage items.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }, {
                         "name": "Marsh Supermarket",
                         "description": "Groceries, personal care items and more.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -66,26 +76,31 @@
                     {
                         "name": "Indiana State Museum",
                         "description": "Description Here",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Indianapolis Zoo",
                         "description": "Description Here",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "White River State Park",
                         "description": "Description Here",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Indiana War Memorial",
                         "description": "Description Here",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Benjamin Harrison Presidential Site",
                         "description": "Description Here",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -106,6 +121,7 @@
                         "description": "Sign in and get your badge.",
                         "time": "8:30am-1:00pm",
                         "location": "Lobby",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -114,6 +130,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -122,6 +139,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -130,6 +148,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -138,6 +157,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -146,6 +166,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -158,6 +179,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -166,6 +188,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -174,6 +197,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -182,6 +206,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -190,6 +215,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -198,6 +224,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -206,6 +233,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -214,6 +242,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -222,6 +251,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -230,6 +260,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -238,6 +269,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -246,6 +278,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -258,6 +291,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -266,6 +300,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -274,6 +309,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -282,6 +318,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -290,6 +327,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -298,6 +336,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -306,6 +345,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -314,6 +354,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -326,6 +367,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -334,6 +376,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -342,6 +385,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     },
                     {
@@ -350,6 +394,7 @@
                         "description": "Description",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
+                        "type": "event",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -367,26 +412,31 @@
                     {
                         "name": "Indiana State Capital",
                         "description": "Where the magic happens.",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Office of Technology Services",
-                        "description": "The largest brewery in Indiana.",
+                        "description": "LSA OTS",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Hyatt | PNC Center",
-                        "description": "Indiana's oldest bar and home of the Blues.",
+                        "description": "description",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Lucas Oil Stadium",
-                        "description": "The oldest steakhouse in Indiana.",
+                        "description": "Home of the Indianapolis Colts",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     },
                     {
-                        "name": "Location",
-                        "description": "Description",
+                        "name": "Banker's Life Fieldhouse",
+                        "description": "Home of the Indianapolis Pacers",
+                        "type": "location",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -396,26 +446,31 @@
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "pdf",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "pdf",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "pdf",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "pdf",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "pdf",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -425,26 +480,31 @@
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -460,28 +520,38 @@
                 "title": "Contact Info",
                 "list": [
                     {
-                        "name": "Indiana State Capital",
-                        "description": "Where the magic happens.",
+                        "name": "Contact Name",
+                        "phone": "(317) 000-0000",
+                        "description": "description",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
-                        "name": "Office of Technology Services",
-                        "description": "The largest brewery in Indiana.",
+                        "name": "Contact Name",
+                        "phone": "(317) 000-0000",
+                        "description": "description",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
-                        "name": "Hyatt | PNC Center",
-                        "description": "Indiana's oldest bar and home of the Blues.",
+                        "name": "Contact Name",
+                        "phone": "(317) 000-0000",
+                        "description": "description",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
-                        "name": "Lucas Oil Stadium",
-                        "description": "The oldest steakhouse in Indiana.",
+                        "name": "Contact Name",
+                        "phone": "(317) 000-0000",
+                        "description": "description",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     },
                     {
-                        "name": "Location",
-                        "description": "Description",
+                        "name": "Contact Name",
+                        "phone": "(317) 000-0000",
+                        "description": "description",
+                        "type": "contact",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -491,26 +561,31 @@
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "link",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "link",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "link",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "link",
                         "link": "http://linkgoeshere.com"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
+                        "type": "link",
                         "link": "http://linkgoeshere.com"
                     }
                 ]
@@ -518,29 +593,24 @@
                 "title": "FAQ",
                 "list": [
                     {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "link": "http://linkgoeshere.com"
+                        "name": "Question",
+                        "description": "Answer"
                     },
                     {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "link": "http://linkgoeshere.com"
+                        "name": "Question",
+                        "description": "Answer"
                     },
                     {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "link": "http://linkgoeshere.com"
+                        "name": "Question",
+                        "description": "Answer"
                     },
                     {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "link": "http://linkgoeshere.com"
+                        "name": "Question",
+                        "description": "Answer"
                     },
                     {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "link": "http://linkgoeshere.com"
+                        "name": "Question",
+                        "description": "Answer"
                     }
                 ]
             }
