@@ -13,7 +13,7 @@
       </a>
     </header>
 
-    <ion-list>
+    <ion-list overflow-scroll="true">
       <!-- <ion-scroll direction="y" class="main-scroll"> -->
         <div ng-repeat="group in data.sub_items" class="details-group details-group-{{data.sub_items.length}}">
 
@@ -28,19 +28,22 @@
             <ion-item class="item-accordion"
                       ng-repeat="item in group.list"
                       ng-show="isGroupShown(group)">
-              <h3>{{item.name}}</h3>
 
-              <p>
-                {{item.description}}
-              </p>
+              <a href="{{item.link}}" onClick="window.open(this.href, '_blank', 'location=yes'); return false;">
+                <h3>{{item.name}}</h3>
 
-              <p ng-if="item.location">
-                {{item.location}}
-              </p>
+                <p>
+                  {{item.description}}
+                </p>
 
-              <p ng-if="item.time">
-                {{item.time}}
-              </p>
+                <p ng-if="item.location">
+                  {{item.location}}
+                </p>
+
+                <p ng-if="item.time">
+                  {{item.time}}
+                </p>
+              </a>
             </ion-item>
 
         </div>

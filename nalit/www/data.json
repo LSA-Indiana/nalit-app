@@ -559,28 +559,28 @@
                 "title": "Helpful Links",
                 "list": [
                     {
-                        "name": "Title",
-                        "description": "Description Here",
+                        "name": "Indiana General Assembly",
+                        "description": "IGA Website",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://iga.in.gov/"
+                    },
+                    {
+                        "name": "NALIT Site",
+                        "description": "Conference Website",
+                        "type": "link",
+                        "link": "http://www.ncsl.org/legislators-staff/legislative-staff/information-technology.aspx"
+                    },
+                    {
+                        "name": "City of Indianapolis",
+                        "description": "Indy website",
+                        "type": "link",
+                        "link": "http://www.indy.gov/Pages/Home.aspx"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "type": "link",
-                        "link": "http://linkgoeshere.com"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Description Here",
-                        "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": ""
                     },
                     {
                         "name": "Title",

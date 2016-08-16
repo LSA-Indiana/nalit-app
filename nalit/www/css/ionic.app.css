@@ -9971,6 +9971,11 @@ a.button {
   font-size: 1rem;
   line-height: 1.2; }
 
+.item a,
+.item-content a,
+.scroll-content a {
+  text-decoration: none; }
+
 @media screen and (min-width: 360px) {
   .item h1,
   .item-content h1,
