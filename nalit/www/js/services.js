@@ -6,13 +6,13 @@ app.factory('Data', function($http) {
 
   return {
     all: function(){
-      return $http.get('/data.json').then(function(response) {
+      return $http.get('assets/data.json').then(function(response) {
         data = response.data;
         return data;
       });
     },
     get: function(itemId) {
-      return $http.get('/data.json').then(function(response) {
+      return $http.get('assets/data.json').then(function(response) {
         data = response.data.data;
         for (var i = 0; i < data.length; i++) {
           if (data[i].id === parseInt(itemId)) {
