@@ -25,6 +25,12 @@
             font-size: 4rem !important;
         }
     }
+
+    @media screen and (max-height: 450px) {
+        .icon {
+            font-size: 3em !important;
+        }
+    }
 }
 
 .icon-close-link {
@@ -34,14 +40,14 @@
     float: right;
     height: 100%;
     justify-content: center;
-    font-size: 3rem;
+    font-size: 2.5rem;
     padding: 0 4%;
     color: $calm;
     z-index: 100;
 }
 
 .icon-plus-minus {
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding: 0 5%;
     position: absolute;
     top: 50%;

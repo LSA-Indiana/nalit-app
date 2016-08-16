@@ -1,5 +1,5 @@
 <ion-view view-title="Nalit 2016 Indianapolis"  ng-controller="InternalCtrl">
-  <ion-content class="details" scroll="false">
+  <ion-content class="details" scroll="false" overflow-scroll="true">
     <header class="details-header">
       <div class="icon icon-container">
         <i class="icon ion-{{ data.icon }}"></i>
@@ -13,7 +13,7 @@
       </a>
     </header>
 
-    <ion-list overflow-scroll="true">
+    <ion-list>
       <!-- <ion-scroll direction="y" class="main-scroll"> -->
         <div ng-repeat="group in data.sub_items" class="details-group details-group-{{data.sub_items.length}}">
 
