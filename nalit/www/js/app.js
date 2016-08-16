@@ -18,7 +18,7 @@ app.run(function($ionicPlatform) {
   });
 });
 
-app.config(function($stateProvider, $urlRouterProvider) {
+app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider) {
 
   // Ionic uses AngularUI Router which uses the concept of states
   // Learn more here: https://github.com/angular-ui/ui-router
@@ -43,6 +43,8 @@ app.config(function($stateProvider, $urlRouterProvider) {
     templateUrl: 'templates/details.html',
     controller: 'InternalCtrl'
   });
+
+  $ionicConfigProvider.scrolling.jsScrolling(false);
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/');
