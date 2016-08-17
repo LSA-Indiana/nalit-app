@@ -12,32 +12,32 @@
                     {
                         "name": "Circle Center Food Court",
                         "description": "Multiple options to eat while you shop.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Sun King Brewery",
                         "description": "The largest brewery in Indiana.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Slippery Noodle",
                         "description": "Indiana's oldest bar and home of the Blues.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "St. Elmo Steak House",
                         "description": "The oldest steakhouse in Indiana.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Other",
                         "description": "Eat something",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }
                 ]
             }, {
@@ -46,28 +46,28 @@
                     {
                         "name": "Circle Center Mall",
                         "description": "A variety of shops, just down the street.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }, {
                         "name": "Silver in the City",
                         "description": "A place to find Indianapolis souveniers.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }, {
                         "name": "The Fahion Mall",
                         "description": "The place to go for high-end shopping.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }, {
                         "name": "Midland Arts and Antiques Market",
                         "description": "Find one-of-a-kind vintage items.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }, {
                         "name": "Marsh Supermarket",
                         "description": "Groceries, personal care items and more.",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }
                 ]
             }, {
@@ -76,32 +76,32 @@
                     {
                         "name": "Indiana State Museum",
                         "description": "Description Here",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Indianapolis Zoo",
                         "description": "Description Here",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "White River State Park",
                         "description": "Description Here",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Indiana War Memorial",
                         "description": "Description Here",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Benjamin Harrison Presidential&nbsp;Site",
                         "description": "Description Here",
-                        "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }
                 ]
             }
@@ -127,7 +127,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -136,7 +136,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -145,7 +145,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -154,7 +154,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -163,7 +163,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -176,7 +176,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -185,7 +185,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -194,7 +194,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -203,7 +203,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -212,7 +212,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -221,7 +221,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -230,7 +230,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -239,7 +239,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -248,7 +248,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -257,7 +257,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -266,7 +266,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -275,7 +275,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -288,7 +288,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -297,7 +297,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -306,7 +306,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -315,7 +315,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -324,7 +324,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -333,7 +333,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -342,7 +342,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -351,7 +351,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -364,7 +364,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -373,7 +373,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -382,7 +382,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -391,7 +391,7 @@
                     {
                         "name": "Title",
                         "category": "Category",
-                        "description": "Description",
+                        "description": "Need information and ics files",
                         "time": "1:00pm-2:15pm",
                         "location": "Location",
                         "type": "event",
@@ -411,31 +411,31 @@
                 "list": [
                     {
                         "name": "Indiana State Capital",
-                        "description": "Where the magic happens.",
+                        "description": "Need locations and coordinates",
                         "type": "location",
                         "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Office of Technology Services",
-                        "description": "LSA OTS",
+                        "description": "Need locations and coordinates",
                         "type": "location",
                         "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Hyatt | PNC Center",
-                        "description": "description",
+                        "description": "Need locations and coordinates",
                         "type": "location",
                         "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Lucas Oil Stadium",
-                        "description": "Home of the Indianapolis Colts",
+                        "description": "Need locations and coordinates",
                         "type": "location",
                         "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Banker's Life Fieldhouse",
-                        "description": "Home of the Indianapolis Pacers",
+                        "description": "Need locations and coordinates",
                         "type": "location",
                         "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }
@@ -445,33 +445,33 @@
                 "list": [
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need PDFs",
                         "type": "link",
-                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
+                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need PDFs",
                         "type": "link",
-                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
+                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need PDFs",
                         "type": "link",
-                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
+                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need PDFs",
                         "type": "link",
-                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
+                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need PDFs",
                         "type": "link",
-                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
+                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
                     }
                 ]
             }, {
@@ -479,33 +479,33 @@
                 "list": [
                     {
                         "name": "Title",
-                        "description": "Description Here",
-                        "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "description": "Need data and links",
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
-                        "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "description": "Need data and links",
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
-                        "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "description": "Need data and links",
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
-                        "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "description": "Need data and links",
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
-                        "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "description": "Need data and links",
+                        "type": "link",
+                        "link": "https://iga.in.gov/"
                     }
                 ]
             }
@@ -522,35 +522,35 @@
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
-                        "description": "description",
+                        "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
-                        "description": "description",
+                        "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
-                        "description": "description",
+                        "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
-                        "description": "description",
+                        "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
-                        "description": "description",
+                        "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/vcf.vcf"
                     }
@@ -560,31 +560,31 @@
                 "list": [
                     {
                         "name": "Indiana General Assembly",
-                        "description": "IGA Website",
+                        "description": "Need links",
                         "type": "link",
                         "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "NALIT Site",
-                        "description": "Conference Website",
+                        "description": "Need links",
                         "type": "link",
                         "link": "http://www.ncsl.org/legislators-staff/legislative-staff/information-technology.aspx"
                     },
                     {
                         "name": "City of Indianapolis",
-                        "description": "Indy website",
+                        "description": "Need links",
                         "type": "link",
                         "link": "http://www.indy.gov/Pages/Home.aspx"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need links",
                         "type": "link",
                         "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
-                        "description": "Description Here",
+                        "description": "Need links",
                         "type": "link",
                         "link": "https://iga.in.gov/"
                     }
@@ -594,23 +594,23 @@
                 "list": [
                     {
                         "name": "Question",
-                        "description": "Answer"
+                        "description": "Need questions and answers"
                     },
                     {
                         "name": "Question",
-                        "description": "Answer"
+                        "description": "Need questions and answers"
                     },
                     {
                         "name": "Question",
-                        "description": "Answer"
+                        "description": "Need questions and answers"
                     },
                     {
                         "name": "Question",
-                        "description": "Answer"
+                        "description": "Need questions and answers"
                     },
                     {
                         "name": "Question",
-                        "description": "Answer"
+                        "description": "Need questions and answers"
                     }
                 ]
             }
