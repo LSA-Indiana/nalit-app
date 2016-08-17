@@ -239,7 +239,6 @@ Options -MultiViews
     AddType text/vtt                                    vtt
     AddType text/x-component                            htc
     AddType text/calendar                               ics
-    AddType text/contact                                vcf
 
 </IfModule>
 
