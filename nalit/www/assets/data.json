@@ -13,31 +13,31 @@
                         "name": "Circle Center Food Court",
                         "description": "Multiple options to eat while you shop.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Sun King Brewery",
                         "description": "The largest brewery in Indiana.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Slippery Noodle",
                         "description": "Indiana's oldest bar and home of the Blues.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "St. Elmo Steak House",
                         "description": "The oldest steakhouse in Indiana.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Other",
                         "description": "Eat something",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }
                 ]
             }, {
@@ -47,27 +47,27 @@
                         "name": "Circle Center Mall",
                         "description": "A variety of shops, just down the street.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }, {
                         "name": "Silver in the City",
                         "description": "A place to find Indianapolis souveniers.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }, {
                         "name": "The Fahion Mall",
                         "description": "The place to go for high-end shopping.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }, {
                         "name": "Midland Arts and Antiques Market",
                         "description": "Find one-of-a-kind vintage items.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }, {
                         "name": "Marsh Supermarket",
                         "description": "Groceries, personal care items and more.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }
                 ]
             }, {
@@ -77,31 +77,31 @@
                         "name": "Indiana State Museum",
                         "description": "Description Here",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Indianapolis Zoo",
                         "description": "Description Here",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "White River State Park",
                         "description": "Description Here",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Indiana War Memorial",
                         "description": "Description Here",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Benjamin Harrison Presidential&nbsp;Site",
                         "description": "Description Here",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }
                 ]
             }
@@ -413,31 +413,31 @@
                         "name": "Indiana State Capital",
                         "description": "Where the magic happens.",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Office of Technology Services",
                         "description": "LSA OTS",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Hyatt | PNC Center",
                         "description": "description",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Lucas Oil Stadium",
                         "description": "Home of the Indianapolis Colts",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     },
                     {
                         "name": "Banker's Life Fieldhouse",
                         "description": "Home of the Indianapolis Pacers",
                         "type": "location",
-                        "link": "http://linkgoeshere.com"
+                        "link": "http://maps.google.com?q=39.768711,-86.162856"
                     }
                 ]
             }, {
@@ -447,31 +447,31 @@
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://en.wikipedia.org/wiki/Indiana_State_House#/media/File:Indiana_statehouse_blueprint.jpg"
                     }
                 ]
             }, {
@@ -481,31 +481,31 @@
                         "name": "Title",
                         "description": "Description Here",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     }
                 ]
             }
@@ -524,35 +524,35 @@
                         "phone": "(317) 000-0000",
                         "description": "description",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "description",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "description",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "description",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "description",
                         "type": "contact",
-                        "link": "http://linkgoeshere.com"
+                        "link": "/assets/vcf.vcf"
                     }
                 ]
             }, {
@@ -580,13 +580,13 @@
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": ""
+                        "link": "https://iga.in.gov/"
                     },
                     {
                         "name": "Title",
                         "description": "Description Here",
                         "type": "link",
-                        "link": "http://linkgoeshere.com"
+                        "link": "https://iga.in.gov/"
                     }
                 ]
             }, {
