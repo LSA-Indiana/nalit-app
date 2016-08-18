@@ -14,7 +14,7 @@
     width: 30%;
 
     .icon {
-        font-size: 3rem !important;
+        font-size: 48px !important;
         transform: skew(25deg);
     }
 
@@ -22,13 +22,13 @@
         width: 32%;
 
         .icon {
-            font-size: 4rem !important;
+            font-size: 64px !important;
         }
     }
 
     @media screen and (max-height: 450px) {
         .icon {
-            font-size: 3em !important;
+            font-size: 48px !important;
         }
     }
 }
@@ -40,14 +40,14 @@
     float: right;
     height: 100%;
     justify-content: center;
-    font-size: 2.5rem;
+    font-size: 35px;
     padding: 0 4%;
     color: $calm;
     z-index: 100;
 }
 
 .icon-plus-minus {
-    font-size: 2rem;
+    font-size: 29px;
     padding: 0 5%;
     position: absolute;
     top: 50%;
