@@ -4264,8 +4264,8 @@ a.subdued {
     color: #fff;
     text-decoration: none; }
   .bar-dark .button.active, .bar-dark .button.activated {
-    border-color: transparent;
-    background-color: #262626; }
+    border-color: #000;
+    background-color: #465B76; }
   .bar-dark .button.button-clear {
     border-color: transparent;
     background: none;
@@ -5942,16 +5942,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-dark,
   .item .item-content.active.item-dark,
   .item .item-content.activated.item-dark {
-    border-color: transparent;
-    background-color: #262626; }
+    border-color: #000;
+    background-color: #465B76; }
     .item.active.item-dark.item-complex > .item-content,
     .item.activated.item-dark.item-complex > .item-content,
     .item-complex.active .item-content.item-dark.item-complex > .item-content,
     .item-complex.activated .item-content.item-dark.item-complex > .item-content,
     .item .item-content.active.item-dark.item-complex > .item-content,
     .item .item-content.activated.item-dark.item-complex > .item-content {
-      border-color: transparent;
-      background-color: #262626; }
+      border-color: #000;
+      background-color: #465B76; }
 
 .item,
 .item h1,
@@ -6131,11 +6131,11 @@ a.item-content {
   background-color: #465B76;
   color: #fff; }
   .item-complex.item-dark > .item-content.active, .item-complex.item-dark > .item-content:active {
-    border-color: transparent;
-    background-color: #262626; }
+    border-color: #000;
+    background-color: #465B76; }
     .item-complex.item-dark > .item-content.active.item-complex > .item-content, .item-complex.item-dark > .item-content:active.item-complex > .item-content {
-      border-color: transparent;
-      background-color: #262626; }
+      border-color: #000;
+      background-color: #465B76; }
 
 /**
  * Item Icons
@@ -8843,7 +8843,7 @@ progress {
       text-decoration: none; }
     .button.button-dark.active, .button.button-dark.activated {
       border-color: #a2a2a2;
-      background-color: #262626; }
+      background-color: #465B76; }
     .button.button-dark.button-clear {
       border-color: transparent;
       background: none;

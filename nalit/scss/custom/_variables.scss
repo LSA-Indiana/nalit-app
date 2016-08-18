@@ -1,4 +1,6 @@
 $assertive: #FA7531 !default;
 $calm: #A1B3CA !default;
 $dark: #465B76 !default;
-$button-dark-active-border: transparent !default;
+
+$button-dark-active-bg: $dark !default;
+// $button-dark-active-border: transparent !default;
