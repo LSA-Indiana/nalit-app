@@ -38,9 +38,9 @@
     }
 
     .item-instructions {
-        // background: $assertive;
+        background: #ddd;
         color: $dark;
-        line-height: 1.4;
+        font-size: 11px;
         text-align: center;
     }
 
@@ -54,16 +54,16 @@
 
     @media screen and (max-height: 450px) {
         .details-header {
-            height: 20%;
+            height: 21%;
             background: $dark;
             margin: 1px 0;
         }
 
-        .icon-container {
-            margin-left: 2%;
-            width: 20%;
-            height: 100%;
+        .list {
+            height: 78%;
+        }
 
+        .icon-container {
             .icon {
                 font-size: 36px !important;
             }

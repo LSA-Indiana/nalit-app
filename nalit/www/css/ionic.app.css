@@ -9957,8 +9957,9 @@ a.button {
     font-size: 36px !important; }
 
 .details .item-instructions {
+  background: #ddd;
   color: #465B76;
-  line-height: 1.4;
+  font-size: 11px;
   text-align: center; }
 
 @media screen and (min-width: 360px) {
@@ -9967,15 +9968,13 @@ a.button {
 
 @media screen and (max-height: 450px) {
   .details .details-header {
-    height: 20%;
+    height: 21%;
     background: #465B76;
     margin: 1px 0; }
-  .details .icon-container {
-    margin-left: 2%;
-    width: 20%;
-    height: 100%; }
-    .details .icon-container .icon {
-      font-size: 36px !important; } }
+  .details .list {
+    height: 78%; }
+  .details .icon-container .icon {
+    font-size: 36px !important; } }
 
 .item h1,
 .item-content h1,
