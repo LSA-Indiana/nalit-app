@@ -8,6 +8,7 @@
         "sub_items": [
             {
                 "title": "Food and Drinks",
+                "instructions": "(tap item to open in a new tab)",
                 "list": [
                     {
                         "name": "Circle Center Food Court",
@@ -42,6 +43,7 @@
                 ]
             }, {
                 "title": "Shopping",
+                "instructions": "(tap item to open in a new tab)",
                 "list": [
                     {
                         "name": "Circle Center Mall",
@@ -72,6 +74,7 @@
                 ]
             }, {
                 "title": "Activities",
+                "instructions": "(tap item to open in a new tab)",
                 "list": [
                     {
                         "name": "Indiana State Museum",
@@ -114,6 +117,7 @@
         "sub_items": [
             {
                 "title": "Monday, Sept. 12",
+                "instructions": "(tap item to add event to calendar)",
                 "list": [
                     {
                         "name": "Registration",
@@ -172,6 +176,7 @@
                 ]
             }, {
                 "title": "Tuesday, Sept. 13",
+                "instructions": "(tap item to add event to calendar)",
                 "list": [
                     {
                         "name": "Title",
@@ -284,6 +289,7 @@
                 ]
             }, {
                 "title": "Wednesday, Sept. 14",
+                "instructions": "(tap item to add event to calendar)",
                 "list": [
                     {
                         "name": "Title",
@@ -360,6 +366,7 @@
                 ]
             }, {
                 "title": "Thursday, Sept. 15",
+                "instructions": "(tap item to add event to calendar)",
                 "list": [
                     {
                         "name": "Title",
@@ -408,6 +415,7 @@
         "sub_items": [
             {
                 "title": "Event Locations",
+                "instructions": "(tap item to open in maps)",
                 "list": [
                     {
                         "name": "Indiana State Capital",
@@ -442,6 +450,7 @@
                 ]
             }, {
                 "title": "Indoor Maps",
+                "instructions": "(tap item to open floor plan)",
                 "list": [
                     {
                         "name": "Title",
@@ -476,6 +485,7 @@
                 ]
             }, {
                 "title": "Find a Ride",
+                "instructions": "(tap item to open in a new tab)",
                 "list": [
                     {
                         "name": "Title",
@@ -518,6 +528,7 @@
         "sub_items": [
             {
                 "title": "Contact Info",
+                "instructions": "(tap item to see more contact info)",
                 "list": [
                     {
                         "name": "Contact Name",
@@ -557,6 +568,7 @@
                 ]
             }, {
                 "title": "Helpful Links",
+                "instructions": "(tap item to open in a new tab)",
                 "list": [
                     {
                         "name": "Indiana General Assembly",

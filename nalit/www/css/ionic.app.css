@@ -4264,7 +4264,7 @@ a.subdued {
     color: #fff;
     text-decoration: none; }
   .bar-dark .button.active, .bar-dark .button.activated {
-    border-color: #000;
+    border-color: transparent;
     background-color: #262626; }
   .bar-dark .button.button-clear {
     border-color: transparent;
@@ -5942,7 +5942,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-dark,
   .item .item-content.active.item-dark,
   .item .item-content.activated.item-dark {
-    border-color: #000;
+    border-color: transparent;
     background-color: #262626; }
     .item.active.item-dark.item-complex > .item-content,
     .item.activated.item-dark.item-complex > .item-content,
@@ -5950,7 +5950,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     .item-complex.activated .item-content.item-dark.item-complex > .item-content,
     .item .item-content.active.item-dark.item-complex > .item-content,
     .item .item-content.activated.item-dark.item-complex > .item-content {
-      border-color: #000;
+      border-color: transparent;
       background-color: #262626; }
 
 .item,
@@ -6131,10 +6131,10 @@ a.item-content {
   background-color: #465B76;
   color: #fff; }
   .item-complex.item-dark > .item-content.active, .item-complex.item-dark > .item-content:active {
-    border-color: #000;
+    border-color: transparent;
     background-color: #262626; }
     .item-complex.item-dark > .item-content.active.item-complex > .item-content, .item-complex.item-dark > .item-content:active.item-complex > .item-content {
-      border-color: #000;
+      border-color: transparent;
       background-color: #262626; }
 
 /**
@@ -9955,6 +9955,12 @@ a.button {
   height: 100%; }
   .details .icon-container .icon {
     font-size: 2.25rem !important; }
+
+.details .item-instructions {
+  background: #FA7531;
+  color: #fff;
+  padding: 0 0 5px;
+  text-align: center; }
 
 @media screen and (min-width: 360px) {
   .details .icon-container .icon {

@@ -37,6 +37,13 @@
         }
     }
 
+    .item-instructions {
+        background: $assertive;
+        color: #fff;
+        padding: 0 0 5px;
+        text-align: center;
+    }
+
     @media screen and (min-width: 360px) {
         .icon-container {
             .icon {
