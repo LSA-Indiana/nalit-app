@@ -9823,7 +9823,7 @@ a.button {
     color: #fff !important;
     display: block;
     font-size: 1.2rem;
-    padding-bottom: 1%;
+    padding-bottom: 5px;
     text-overflow: initial;
     white-space: normal; }
     .list .item.item-accordion span.item-header {
@@ -9839,6 +9839,7 @@ a.button {
 .list .item.item-accordion.ng-hide-remove {
   display: block !important; }
 
+.item-complex.item-dark > .item-content:active,
 .item-complex.item-dark > .item-content.activated {
   background-color: #FA7531; }
 
