@@ -30,19 +30,19 @@
                       ng-show="isGroupShown(group)">
 
               <a href="{{item.link}}" onClick="window.open(this.href, '_blank', 'location=yes'); return false;">
-                <h3>{{item.name}}</h3>
+                <span class="item-header">{{item.name}}</span>
 
-                <p>
-                  {{item.description}}
-                </p>
+                <span>
+                {{item.description}}
+                <span>
 
-                <p ng-if="item.location">
+                <span ng-if="item.location">
                   {{item.location}}
-                </p>
+                </span>
 
-                <p ng-if="item.time">
+                <span ng-if="item.time">
                   {{item.time}}
-                </p>
+                </span>
               </a>
             </ion-item>
 

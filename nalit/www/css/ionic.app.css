@@ -9819,9 +9819,18 @@ a.button {
   background: #A1B3CA;
   overflow: hidden;
   transition: 0.09s all linear; }
-  .list .item.item-accordion h3, .list .item.item-accordion p {
+  .list .item.item-accordion span {
+    color: #fff !important;
+    display: block;
+    font-size: 1.2rem;
+    padding-bottom: 1%;
     text-overflow: initial;
     white-space: normal; }
+    .list .item.item-accordion span.item-header {
+      font-size: 1.4rem;
+      font-weight: bold; }
+    .list .item.item-accordion span:last-child {
+      padding-bottom: 0; }
 
 .list .item.item-accordion.ng-hide {
   line-height: 0px; }
@@ -9829,6 +9838,9 @@ a.button {
 .list .item.item-accordion.ng-hide-add,
 .list .item.item-accordion.ng-hide-remove {
   display: block !important; }
+
+.item-complex.item-dark > .item-content.activated {
+  background-color: #FA7531; }
 
 .button.button-assertive {
   border: 1px solid #465B76; }
