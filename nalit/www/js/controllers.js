@@ -30,11 +30,17 @@ angular.module('nalit.controllers', ['nalit.services'])
       $scope.shownGroup = null;
     } else {
       $scope.shownGroup = group;
+      $scope.scrollToTop();
     }
 
     $scope.reCalculateSize = function() {
         $ionicScrollDelegate.resize();
     };
+  };
+
+  $scope.scrollToTop = function() { //ng-click for back to top button
+    $ionicScrollDelegate.scrollTop();
+    $scope.sttButton=false;  //hide the button when reached top
   };
 
   $scope.isGroupShown = function(group) {
