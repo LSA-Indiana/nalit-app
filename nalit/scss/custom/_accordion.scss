@@ -1,10 +1,10 @@
 .list .item.item-accordion {
-    background: $calm;
+    background: #f9f9f9;
     overflow: hidden;
     transition: 0.09s all linear;
 
     span {
-        color: #fff !important;
+        color: $dark !important;
         display: block;
         font-size: 16px;
         // line-height: 1.4rem;

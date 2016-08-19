@@ -9816,11 +9816,11 @@ a.button {
   transition-duration: 0s; }
 
 .list .item.item-accordion {
-  background: #A1B3CA;
+  background: #f9f9f9;
   overflow: hidden;
   transition: 0.09s all linear; }
   .list .item.item-accordion span {
-    color: #fff !important;
+    color: #465B76 !important;
     display: block;
     font-size: 16px;
     padding-bottom: 5px;
@@ -9957,8 +9957,8 @@ a.button {
     font-size: 36px !important; }
 
 .details .item-instructions {
-  background: #ddd;
-  color: #465B76;
+  background: #A1B3CA;
+  color: #fff;
   font-size: 11px;
   text-align: center; }
 
