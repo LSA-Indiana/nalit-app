@@ -8,10 +8,6 @@ angular.module('nalit.controllers', ['nalit.services'])
       $scope.data.push(response.data[i]);
     }
   });
-
-  $scope.onSwipeRight = function (id) {
-    $state.go('details', { itemId: id });
-  }
 })
 
 .controller('InternalCtrl', function($scope, $stateParams, Data, $ionicScrollDelegate) {
