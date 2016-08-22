@@ -13,42 +13,40 @@
       </a>
     </header>
 
-    <ion-list>
-      <!-- <ion-scroll direction="y" class="main-scroll"> -->
-        <div ng-repeat="group in data.sub_items" class="details-group details-group-{{data.sub_items.length}}">
+    <ion-list id="js-list">
+      <div ng-repeat="(key, group) in data.sub_items" class="details-group" id="item-{{key}}">
 
-            <ion-item class="item-dark"
-                      ng-click="toggleGroup(group)"
-                      ng-class="{active: isGroupShown(group)}">
-              <h2>{{group.title}}</h2>
-              <div class="icon icon-plus-minus">
-                <i class="icon" ng-class="isGroupShown(group) ? 'ion-minus' : 'ion-plus'"></i>
-              </div>
-            </ion-item>
-            <div ng-if="group.instructions" ng-show="isGroupShown(group)" class="item-instructions">{{group.instructions}}</div>
-            <ion-item class="item-accordion"
-                      ng-repeat="item in group.list"
-                      ng-show="isGroupShown(group)">
+        <ion-item class="item-dark"
+                  ng-click="toggleGroup(group, key)"
+                  ng-class="{active: isGroupShown(group)}">
+          <h2>{{group.title}}</h2>
+          <div class="icon icon-plus-minus">
+            <i class="icon" ng-class="isGroupShown(group) ? 'ion-minus' : 'ion-plus'"></i>
+          </div>
+        </ion-item>
+        <div ng-if="group.instructions" ng-show="isGroupShown(group)" class="item-instructions">{{group.instructions}}</div>
+        <ion-item class="item-accordion"
+                  ng-repeat="item in group.list"
+                  ng-show="isGroupShown(group)">
 
-              <a href="{{item.link}}" onClick="window.open(this.href, '_blank', 'location=yes'); return false;">
-                <span class="item-header">{{item.name}}</span>
+          <a href="{{item.link}}" onClick="window.open(this.href, '_blank', 'location=yes'); return false;">
+            <span class="item-header">{{item.name}}</span>
 
-                <span>
-                {{item.description}}
-                <span>
+            <span>
+            {{item.description}}
+            </span>
 
-                <span ng-if="item.location">
-                  {{item.location}}
-                </span>
+            <span ng-if="item.location">
+              {{item.location}}
+            </span>
 
-                <span ng-if="item.time">
-                  {{item.time}}
-                </span>
-              </a>
-            </ion-item>
+            <span ng-if="item.time">
+              {{item.time}}
+            </span>
+          </a>
+        </ion-item>
 
-        </div>
-      <!-- </ion-scroll> -->
+      </div>
     </ion-list>
   </ion-content>
 </ion-view>

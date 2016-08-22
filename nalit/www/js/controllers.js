@@ -21,25 +21,26 @@ angular.module('nalit.controllers', ['nalit.services'])
   * if given group is the selected group, deselect it
   * else, select the given group
   */
-  $scope.toggleGroup = function(group) {
+  $scope.toggleGroup = function(group, id) {
     if ($scope.isGroupShown(group)) {
       $scope.shownGroup = null;
     } else {
       $scope.shownGroup = group;
-      $scope.scrollToTop();
+      setTimeout($scope.moveScroll(id), 200);
     }
 
     $scope.reCalculateSize = function() {
-        $ionicScrollDelegate.resize();
+      $ionicScrollDelegate.resize();
     };
-  };
-
-  $scope.scrollToTop = function() { //ng-click for back to top button
-    $ionicScrollDelegate.scrollTop();
-    $scope.sttButton=false;  //hide the button when reached top
   };
 
   $scope.isGroupShown = function(group) {
     return $scope.shownGroup === group;
+  };
+
+  $scope.moveScroll = function(id) {
+    var wrappedList = angular.element(document.getElementsByClassName("list"));
+    wrappedList.scrollTop = 70 * id;
+    // console.log(wrappedList.scrollTop);
   };
 });
