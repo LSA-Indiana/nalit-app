@@ -28,7 +28,7 @@ angular.module('nalit.controllers', ['nalit.services'])
       $scope.shownGroup = group;
 
       var wrappedList = angular.element(document.getElementById("item-" + id).parentElement);
-      wrappedList[0].scrollTop = 70 * id;
+      wrappedList[0].scrollTop = 69 * id;
     }
 
     $scope.reCalculateSize = function() {
