@@ -9822,12 +9822,12 @@ a.button {
   .list .item.item-accordion span {
     color: #465B76 !important;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
     padding-bottom: 5px;
     text-overflow: initial;
     white-space: normal; }
     .list .item.item-accordion span.item-header {
-      font-size: 20px;
+      font-size: 22px;
       font-weight: bold; }
     .list .item.item-accordion span:last-child {
       padding-bottom: 0; }
@@ -9878,7 +9878,7 @@ a.button {
     justify-content: center; }
 
 .pane {
-  background: #efefef; }
+  background: #f9f9f9; }
 
 .icon-container {
   background: #FA7531;
@@ -9960,7 +9960,8 @@ a.button {
   background: #A1B3CA;
   color: #fff;
   font-size: 11px;
-  text-align: center; }
+  text-align: center;
+  display: none; }
 
 @media screen and (min-width: 360px) {
   .details .icon-container .icon {
