@@ -9865,6 +9865,8 @@ a.button {
     justify-content: center;
     margin: 2px 0 0;
     width: 100%; }
+    .home-menu .item:first-child {
+      margin-top: 1px; }
   .home-menu .item-container {
     height: 100%; }
   .home-menu .item-content {
@@ -9931,7 +9933,7 @@ a.button {
 .details .details-header {
   height: 12%;
   background: #465B76;
-  margin: 3px 0 2px; }
+  margin: 2px 0 1px; }
 
 .details .content-container {
   display: flex;

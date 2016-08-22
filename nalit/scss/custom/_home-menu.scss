@@ -20,6 +20,10 @@
         justify-content: center;
         margin: 2px 0 0;
         width: 100%;
+
+        &:first-child{
+            margin-top: 1px;
+        }
     }
 
     .item-container {
