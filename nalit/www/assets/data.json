@@ -421,7 +421,7 @@
                         "name": "Indiana State Capital",
                         "description": "Need locations and coordinates",
                         "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "link": "/assets/indiana_state_capitol.vcf"
                     },
                     {
                         "name": "Office of Technology Services",
