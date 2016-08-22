@@ -26,7 +26,9 @@ angular.module('nalit.controllers', ['nalit.services'])
       $scope.shownGroup = null;
     } else {
       $scope.shownGroup = group;
-      setTimeout($scope.moveScroll(id), 200);
+
+      var wrappedList = angular.element(document.getElementById("item-" + id).parentElement);
+      wrappedList[0].scrollTop = 70 * id;
     }
 
     $scope.reCalculateSize = function() {
@@ -36,11 +38,5 @@ angular.module('nalit.controllers', ['nalit.services'])
 
   $scope.isGroupShown = function(group) {
     return $scope.shownGroup === group;
-  };
-
-  $scope.moveScroll = function(id) {
-    var wrappedList = angular.element(document.getElementsByClassName("list"));
-    wrappedList.scrollTop = 70 * id;
-    // console.log(wrappedList.scrollTop);
   };
 });
