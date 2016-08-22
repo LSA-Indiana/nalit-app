@@ -9863,7 +9863,7 @@ a.button {
     flex: 1;
     height: 33%;
     justify-content: center;
-    margin: 1% 0 0;
+    margin: 2px 0 0;
     width: 100%; }
   .home-menu .item-container {
     height: 100%; }
@@ -9931,7 +9931,7 @@ a.button {
 .details .details-header {
   height: 12%;
   background: #465B76;
-  margin: 1% 0; }
+  margin: 3px 0 2px; }
 
 .details .content-container {
   display: flex;
