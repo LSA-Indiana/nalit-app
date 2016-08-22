@@ -1,34 +1,43 @@
-.list .item.item-accordion {
-    background: #f9f9f9;
-    overflow: hidden;
-    transition: 0.09s all linear;
+.list .item{
 
-    span {
-        color: $dark !important;
-        display: block;
-        font-size: 18px;
-        padding-bottom: 5px;
-        text-overflow: initial;
-        white-space: normal;
+    &.item-accordion {
+        background: #f9f9f9;
+        overflow: hidden;
+        transition: 0.09s all linear;
 
-        &.item-header {
-            font-size: 22px;
-            font-weight: bold;
+        span {
+            color: $dark !important;
+            display: block;
+            font-size: 18px;
+            padding-bottom: 5px;
+            text-overflow: initial;
+            white-space: normal;
+
+            &.item-header {
+                font-size: 22px;
+                font-weight: bold;
+            }
+
+            &:last-child {
+                padding-bottom: 0;
+            }
         }
 
-        &:last-child {
-            padding-bottom: 0;
+        &.ng-hide {
+            line-height: 0px;
         }
+
+        &.ng-hide-add,
+        &.ng-hide-remove {
+            display: block !important;
+        }
+
+    }
+
+    &.item-dark{
+        border-color: #f9f9f9;
     }
 }
-.list .item.item-accordion.ng-hide {
-    line-height: 0px;
-}
-.list .item.item-accordion.ng-hide-add,
-.list .item.item-accordion.ng-hide-remove {
-    display: block !important;
-}
-
 
 .item-complex.item-dark > .item-content:active,
 .item-complex.item-dark > .item-content.activated {

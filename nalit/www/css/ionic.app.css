@@ -9831,13 +9831,13 @@ a.button {
       font-weight: bold; }
     .list .item.item-accordion span:last-child {
       padding-bottom: 0; }
+  .list .item.item-accordion.ng-hide {
+    line-height: 0px; }
+  .list .item.item-accordion.ng-hide-add, .list .item.item-accordion.ng-hide-remove {
+    display: block !important; }
 
-.list .item.item-accordion.ng-hide {
-  line-height: 0px; }
-
-.list .item.item-accordion.ng-hide-add,
-.list .item.item-accordion.ng-hide-remove {
-  display: block !important; }
+.list .item.item-dark {
+  border-color: #f9f9f9; }
 
 .item-complex.item-dark > .item-content:active,
 .item-complex.item-dark > .item-content.activated {
