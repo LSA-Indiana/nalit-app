@@ -8,13 +8,14 @@
         span {
             color: $dark !important;
             display: block;
-            font-size: 18px;
+            font-size: 20px;
             padding-bottom: 5px;
             text-overflow: initial;
             white-space: normal;
 
             &.item-header {
-                font-size: 22px;
+                font-size: 24px;
+                line-height: 26px;
                 font-weight: bold;
             }
 
