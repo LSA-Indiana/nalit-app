@@ -1,5 +1,9 @@
 body {
     font-family: "Lato", sans-serif !important;
+
+    .title {
+        font-family: inherit !important;
+    }
 }
 
 .item,
@@ -10,19 +14,19 @@ body {
         font-size: 25px;
         margin-bottom: 0;
         line-height: 1;
-        font-family: "Lato", sans-serif !important;
+        font-family: inherit !important;
     }
 
     h2 {
         color: #fff;
         font-size: 22px;
-        font-family: "Lato", sans-serif !important;
+        font-family: inherit !important;
     }
 
     h3 {
         color: #fff;
         font-size: 19px;
-        font-family: "Lato", sans-serif !important;
+        font-family: inherit !important;
     }
 
     p {
