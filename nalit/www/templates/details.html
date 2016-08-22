@@ -13,11 +13,11 @@
       </a>
     </header>
 
-    <ion-list id="js-list">
+    <ion-list id="item-{{data.id}}">
       <div ng-repeat="(key, group) in data.sub_items" class="details-group" id="item-{{key}}">
 
         <ion-item class="item-dark"
-                  ng-click="toggleGroup(group, key)"
+                  ng-click="toggleGroup(group, key, data.id)"
                   ng-class="{active: isGroupShown(group)}">
           <h2>{{group.title}}</h2>
           <div class="icon icon-plus-minus">

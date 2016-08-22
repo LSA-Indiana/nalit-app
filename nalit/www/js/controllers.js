@@ -21,14 +21,14 @@ angular.module('nalit.controllers', ['nalit.services'])
   * if given group is the selected group, deselect it
   * else, select the given group
   */
-  $scope.toggleGroup = function(group, id) {
+  $scope.toggleGroup = function(group, key, id) {
     if ($scope.isGroupShown(group)) {
       $scope.shownGroup = null;
     } else {
       $scope.shownGroup = group;
 
-      var wrappedList = angular.element(document.getElementById("item-" + id).parentElement);
-      wrappedList[0].scrollTop = 69 * id;
+      $scope.wrappedList = document.getElementById("item-" + id).childNodes[0];
+      $scope.wrappedList.scrollTop = 69 * key;
     }
 
     $scope.reCalculateSize = function() {
