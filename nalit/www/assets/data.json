@@ -14,31 +14,25 @@
                         "name": "Circle Center Food Court",
                         "description": "Multiple options to eat while you shop.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.simon.com/mall/circle-centre-mall"
                     },
                     {
                         "name": "Sun King Brewery",
                         "description": "The largest brewery in Indiana.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.sunkingbrewing.com/"
                     },
                     {
                         "name": "Slippery Noodle",
                         "description": "Indiana's oldest bar and home of the Blues.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.slipperynoodle.com/"
                     },
                     {
                         "name": "St. Elmo Steak House",
                         "description": "The oldest steakhouse in Indiana.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
-                    },
-                    {
-                        "name": "Other",
-                        "description": "Eat something",
-                        "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.stelmos.com/"
                     }
                 ]
             }, {
@@ -49,27 +43,27 @@
                         "name": "Circle Center Mall",
                         "description": "A variety of shops, just down the street.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.simon.com/mall/circle-centre-mall"
                     }, {
                         "name": "Silver in the City",
                         "description": "A place to find Indianapolis souveniers.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.silverinthecity.com/"
                     }, {
-                        "name": "The Fahion Mall",
+                        "name": "The Fashion Mall",
                         "description": "The place to go for high-end shopping.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.simon.com/mall/the-fashion-mall-at-keystone"
                     }, {
                         "name": "Midland Arts and Antiques Market",
                         "description": "Find one-of-a-kind vintage items.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.midlandathome.com/"
                     }, {
                         "name": "Marsh Supermarket",
                         "description": "Groceries, personal care items and more.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.marsh.net/"
                     }
                 ]
             }, {
@@ -78,33 +72,33 @@
                 "list": [
                     {
                         "name": "Indiana State Museum",
-                        "description": "Description Here",
+                        "description": "Exhibits featuring natural history, art, and culture.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.indianamuseum.org/"
                     },
                     {
                         "name": "Indianapolis Zoo",
-                        "description": "Description Here",
+                        "description": "View 320 species of animals of 5 different biomes.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.indianapoliszoo.com/SitePages/Home.aspx"
                     },
                     {
                         "name": "White River State Park",
-                        "description": "Description Here",
+                        "description": "Explore the park by foot, bike, or pedal boat.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.inwhiteriver.com/"
                     },
                     {
                         "name": "Indiana War Memorial",
-                        "description": "Description Here",
+                        "description": "A memorial and museum honoring Hoosier veterans.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.indianawarmemorials.org/default.asp"
                     },
                     {
                         "name": "Benjamin Harrison Presidential Site",
-                        "description": "Description Here",
+                        "description": "View historical exhibits and special events.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://www.bhpsite.org/"
                     }
                 ]
             }
@@ -123,55 +117,91 @@
                         "name": "Registration",
                         "category": "Category",
                         "description": "Sign in and get your badge.",
-                        "time": "8:30am-1:00pm",
-                        "location": "Lobby",
+                        "time": "10am-5:00pm",
+                        "location": "Indianapolis Foyer",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Welcome and Seminar Overview",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "1:00pm-1:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Legislative Demos/Exhibits",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "1:30pm-2:15pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Break",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "2:15pm-2:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Desktop Support and Client Interaction",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "2:30pm-3:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Mobile Web/Mobile Apps",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "2:30pm-3:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Break",
+                        "category": "Category",
+                        "description": "",
+                        "time": "3:30pm-3:45pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "From Data to Insights: Data Analysis and Visualization Tools",
+                        "category": "Category",
+                        "description": "",
+                        "time": "3:45pm-4:45pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Meet & Greet / New Attendee Orientation",
+                        "category": "Category",
+                        "description": "",
+                        "time": "4:45pm-5:15pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Open Evening",
+                        "category": "Category",
+                        "description": "",
+                        "time": "5:30pm-7pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
                     }
                 ]
             }, {
@@ -179,112 +209,139 @@
                 "instructions": "Tap event to add to calendar.",
                 "list": [
                     {
-                        "name": "Title",
+                        "name": "Registration",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "Sign in and get your badge.",
+                        "time": "8am-5:00pm",
+                        "location": "Indianapolis Foyer",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Breakfast",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "Sponsored by Propylon",
+                        "time": "7:45am-8:45am",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Opening Session: Welcome and Introduction",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "9am-9:45am",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Break",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "9:45pm-10pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Why Would I Work There?",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "10am-11am",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Wireless Management and Security",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "10am-11am",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Five Minutes of Fame",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "Indianapolis Ballroom",
+                        "time": "11am-12:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Lunch",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "12:30pm-1:30pm",
+                        "location": "Vincennes",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Runtime Stack Panel Discussion",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "1:30pm-2:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Infrastructure Security",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "1:30pm-2:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Disaster Recovery",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "Indianapolis Ballroom",
+                        "time": "2:30pm-3:30pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Break",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "3:45pm-4pm",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "APP: Legislative Data Preservation for UELMA",
+                        "category": "Category",
+                        "description": "",
+                        "time": "4pm-5pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "On-Prem/Hybrid/Cloud: Why and How",
+                        "category": "Category",
+                        "description": "",
+                        "time": "4pm-5pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Social Event",
+                        "category": "Category",
+                        "description": "Lucas Oil Stadium Crown Royal Quarterback Club",
+                        "time": "6:30pm-8pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
                     }
                 ]
             }, {
@@ -292,76 +349,85 @@
                 "instructions": "Tap event to add to calendar.",
                 "list": [
                     {
-                        "name": "Title",
+                        "name": "Registration",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "Sign in and get your badge.",
+                        "time": "7:30am-8:30pm",
+                        "location": "Indianapolis Foyer",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Breakfast",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "Grab and Go",
+                        "time": "7:30am-8:30am",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Walk to State House",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "8:30am-8:40am",
+                        "location": "State House",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Tours and Briefings: Indiana State House",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "8:40am-12pm",
+                        "location": "State House",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Lunch",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "Sponsored by Thomas Reuters",
+                        "time": "12pm-1pm",
+                        "location": "State House",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Tours and Briefings: Indiana State House",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "1:00pm-3:30pm",
+                        "location": "State House",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Walk to Indianapolis Hotels and Suites",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "3:30pm-3:45pm",
+                        "location": "",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Smooth Streaming: Webcasts and Webinars",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "3:45pm-4:45pm",
+                        "location": "Vincennes Room",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "NALIT Reception and Exhibits",
+                        "category": "Category",
+                        "description": "",
+                        "time": "5pm-7pm",
+                        "location": "Indianapolis Ballroom",
+                        "type": "event",
+                        "link": "/assets/schedule/"
                     }
                 ]
             }, {
@@ -369,40 +435,67 @@
                 "instructions": "Tap event to add to calendar.",
                 "list": [
                     {
-                        "name": "Title",
+                        "name": "Registration",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "Sign in and get your badge.",
+                        "time": "7:30am-10:30pm",
+                        "location": "Indianapolis Foyer",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Breakfast",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "7:30am-9:00am",
+                        "location": "Corydon Room",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "What It Takes to Host a NALIT Seminar",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
-                        "location": "Location",
+                        "description": "",
+                        "time": "8am-8:30am",
+                        "location": "Corydon Room",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Title",
+                        "name": "Standards for Legislative Data",
                         "category": "Category",
-                        "description": "Need information and ics files",
-                        "time": "1:00pm-2:15pm",
+                        "description": "",
+                        "time": "8:30am-9:30am",
                         "location": "Location",
                         "type": "event",
-                        "link": "/assets/Registration_InformationDesk.ics"
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Break",
+                        "category": "Category",
+                        "description": "",
+                        "time": "9:30pm-9:45pm",
+                        "location": "Location",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Services for External Access to Data and Pros and Cons of APIs",
+                        "category": "Category",
+                        "description": "",
+                        "time": "10am-11am",
+                        "location": "Vincennes Room",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Roundtables",
+                        "category": "Category",
+                        "description": "",
+                        "time": "10:30am-11:30pm",
+                        "location": "Vincennes Room",
+                        "type": "event",
+                        "link": "/assets/schedule/"
                     }
                 ]
             }
@@ -418,34 +511,40 @@
                 "instructions": "Tap location to open in maps.",
                 "list": [
                     {
-                        "name": "Indiana State Capital",
-                        "description": "Need locations and coordinates",
+                        "name": "Indiana State House",
+                        "description": "",
                         "type": "location",
-                        "link": "https://goo.gl/maps/jqC32KEx4Bw"
+                        "link": "https://goo.gl/maps/KTVEZfzzNqR3"
                     },
                     {
                         "name": "Office of Technology Services",
-                        "description": "Need locations and coordinates",
+                        "description": "",
                         "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "link": "https://goo.gl/maps/k36qGmaUDb73"
                     },
                     {
                         "name": "Hyatt | PNC Center",
-                        "description": "Need locations and coordinates",
+                        "description": "",
                         "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "link": "https://goo.gl/maps/L8ZsxS2dUsN3"
                     },
                     {
                         "name": "Lucas Oil Stadium",
-                        "description": "Need locations and coordinates",
+                        "description": "Home of the Indianapolis Colts",
                         "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "link": "https://goo.gl/maps/RM2Fxb7vS8F3"
                     },
                     {
                         "name": "Banker's Life Fieldhouse",
-                        "description": "Need locations and coordinates",
+                        "description": "Home of the Indianapolis Pacers",
                         "type": "location",
-                        "link": "http://maps.google.com?q=39.768711,-86.162856"
+                        "link": "https://goo.gl/maps/TnhcGAPYqnH3"
+                    },
+                    {
+                        "name": "Hilton Hotel",
+                        "description": "",
+                        "type": "location",
+                        "link": "https://goo.gl/maps/R3Wu7Rfv87P3"
                     }
                 ]
             }, {
@@ -453,34 +552,28 @@
                 "instructions": "Tap item to open floor plan.",
                 "list": [
                     {
-                        "name": "Title",
-                        "description": "Need PDFs",
+                        "name": "State House-First Floor",
+                        "description": "",
                         "type": "link",
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
+                        "link": "/assets/indoor_maps/floor_map_1.gif"
                     },
                     {
-                        "name": "Title",
-                        "description": "Need PDFs",
+                        "name": "State House-Second Floor",
+                        "description": "",
                         "type": "link",
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
+                        "link": "/assets/indoor_maps/floor_map_2.gif"
                     },
                     {
-                        "name": "Title",
-                        "description": "Need PDFs",
+                        "name": "State House-Third Floor",
+                        "description": "",
                         "type": "link",
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
+                        "link": "/assets/indoor_maps/floor_map_3.gif"
                     },
                     {
-                        "name": "Title",
-                        "description": "Need PDFs",
+                        "name": "State House-Fourth Floor",
+                        "description": "",
                         "type": "link",
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Need PDFs",
-                        "type": "link",
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indiana_statehouse_blueprint.jpg"
+                        "link": "/assets/indoor_maps/floor_map_4.gif"
                     }
                 ]
             }, {
@@ -488,34 +581,33 @@
                 "instructions": "Tap link to open in a new tab.",
                 "list": [
                     {
-                        "name": "Title",
-                        "description": "Need data and links",
+                        "name": "Uber",
+                        "description": "Request a ride from your phone. ",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "https://www.uber.com/cities/indianapolis/"
                     },
                     {
-                        "name": "Title",
-                        "description": "Need data and links",
+                        "name": "Pacers BikeShare",
+                        "description": "Get around town on two wheels.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "https://www.pacersbikeshare.org/"
                     },
                     {
-                        "name": "Title",
-                        "description": "Need data and links",
+                        "name": "BlueIndy Electric Car Share",
+                        "description": "Convenience of cars without the pollution.",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
-                    },
+                        "link": "https://www.blue-indy.com/"
+                    }
+                ]
+            }, {
+                "title": "Misc",
+                "instructions": "Tap link to open in a new tab.",
+                "list": [
                     {
-                        "name": "Title",
-                        "description": "Need data and links",
+                        "name": "Map of Downtown",
+                        "description": "",
                         "type": "link",
-                        "link": "https://iga.in.gov/"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Need data and links",
-                        "type": "link",
-                        "link": "https://iga.in.gov/"
+                        "link": "http://cdn.visitindy.com/web_files/concierge/Maps/DowntownHotels.pdf"
                     }
                 ]
             }
@@ -535,35 +627,35 @@
                         "phone": "(317) 000-0000",
                         "description": "Need contacts and vcf files",
                         "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "link": "/assets/contacts/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "Need contacts and vcf files",
                         "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "link": "/assets/contacts/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "Need contacts and vcf files",
                         "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "link": "/assets/contacts/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "Need contacts and vcf files",
                         "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "link": "/assets/contacts/vcf.vcf"
                     },
                     {
                         "name": "Contact Name",
                         "phone": "(317) 000-0000",
                         "description": "Need contacts and vcf files",
                         "type": "contact",
-                        "link": "/assets/vcf.vcf"
+                        "link": "/assets/contacts/vcf.vcf"
                     }
                 ]
             }, {
@@ -587,18 +679,6 @@
                         "description": "Need links",
                         "type": "link",
                         "link": "http://www.indy.gov/Pages/Home.aspx"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Need links",
-                        "type": "link",
-                        "link": "https://iga.in.gov/"
-                    },
-                    {
-                        "name": "Title",
-                        "description": "Need links",
-                        "type": "link",
-                        "link": "https://iga.in.gov/"
                     }
                 ]
             }, {
