@@ -115,91 +115,81 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "category": "Category",
                         "description": "Sign in and get your badge.",
-                        "time": "10am-5:00pm",
+                        "time": "11am-4:30pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Welcome and Seminar Overview",
-                        "category": "Category",
                         "description": "",
                         "time": "1:00pm-1:30pm",
-                        "location": "Location",
+                        "location": "Corydon Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Legislative Demos/Exhibits",
-                        "category": "Category",
+                        "name": "Legislative Application Showcase",
                         "description": "",
                         "time": "1:30pm-2:15pm",
-                        "location": "Location",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Break",
-                        "category": "Category",
                         "description": "",
                         "time": "2:15pm-2:30pm",
-                        "location": "Location",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Desktop Support and Client Interaction",
-                        "category": "Category",
                         "description": "",
                         "time": "2:30pm-3:30pm",
-                        "location": "Location",
+                        "location": "Corydon Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Mobile Web/Mobile Apps",
-                        "category": "Category",
                         "description": "",
                         "time": "2:30pm-3:30pm",
-                        "location": "Location",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Break",
-                        "category": "Category",
                         "description": "",
                         "time": "3:30pm-3:45pm",
-                        "location": "Location",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "From Data to Insights: Data Analysis and Visualization Tools",
-                        "category": "Category",
                         "description": "",
                         "time": "3:45pm-4:45pm",
-                        "location": "Location",
+                        "location": "Corydon Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Meet & Greet / New Attendee Orientation",
-                        "category": "Category",
-                        "description": "",
+                        "name": "Meet & Greet / Orientation to NALIT",
+                        "description": "Meet NALIT Officers & learn about NALIT's structure, purposes & traditions.",
                         "time": "4:45pm-5:15pm",
-                        "location": "Location",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Open Evening",
-                        "category": "Category",
-                        "description": "",
+                        "description": "Network with colleagues over dinner and explore downtown Indy",
                         "time": "5:30pm-7pm",
-                        "location": "Location",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     }
@@ -210,25 +200,22 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "category": "Category",
-                        "description": "Sign in and get your badge.",
-                        "time": "8am-5:00pm",
+                        "description": "If you haven't already, sign in and get your badge.",
+                        "time": "7:30am-4:30pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Breakfast",
-                        "category": "Category",
-                        "description": "Sponsored by Propylon",
+                        "description": "NALIT gratefully acknowledges our sponsor, Propylon",
                         "time": "7:45am-8:45am",
-                        "location": "Location",
+                        "location": "Vincennes Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Opening Session: Welcome and Introduction",
-                        "category": "Category",
+                        "name": "Opening Keynote Session: Engaging the Public Through Technology",
                         "description": "",
                         "time": "9am-9:45am",
                         "location": "Indianapolis Ballroom",
@@ -237,109 +224,113 @@
                     },
                     {
                         "name": "Break",
-                        "category": "Category",
                         "description": "",
-                        "time": "9:45pm-10pm",
-                        "location": "Location",
+                        "time": "9:45am-10am",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Why Would I Work There?",
-                        "category": "Category",
                         "description": "",
                         "time": "10am-11am",
-                        "location": "Location",
+                        "location": "Vincennes Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Wireless Management and Security",
-                        "category": "Category",
+                        "name": "Wireless Management & Security",
                         "description": "",
                         "time": "10am-11am",
-                        "location": "Location",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
-                        "name": "Five Minutes of Fame",
-                        "category": "Category",
-                        "description": "Indianapolis Ballroom",
-                        "time": "11am-12:30pm",
-                        "location": "Location",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
-                        "name": "Lunch",
-                        "category": "Category",
-                        "description": "",
-                        "time": "12:30pm-1:30pm",
-                        "location": "Vincennes",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
-                        "name": "Runtime Stack Panel Discussion",
-                        "category": "Category",
-                        "description": "",
-                        "time": "1:30pm-2:30pm",
-                        "location": "Location",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
-                        "name": "Infrastructure Security",
-                        "category": "Category",
-                        "description": "",
-                        "time": "1:30pm-2:30pm",
-                        "location": "Location",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
-                        "name": "Disaster Recovery",
-                        "category": "Category",
-                        "description": "Indianapolis Ballroom",
-                        "time": "2:30pm-3:30pm",
-                        "location": "Location",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Break",
-                        "category": "Category",
                         "description": "",
-                        "time": "3:45pm-4pm",
-                        "location": "Location",
+                        "time": "11am-11:10am",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "APP: Legislative Data Preservation for UELMA",
-                        "category": "Category",
+                        "name": "Five Minutes of Fame",
+                        "description": "",
+                        "time": "11:10am-12:30pm",
+                        "location": "Indianapolis Ballroom",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Lunch",
+                        "description": "NALIT gratefully acknowledges our sponsor, Irosoft.",
+                        "time": "12:30pm-1:30pm",
+                        "location": "Vincennes Room",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Runtime Stack Panel Discussion",
+                        "description": "",
+                        "time": "1:30pm-2:30pm",
+                        "location": "Circle City 10, 10th Floor",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "IT Infrastructure Security",
+                        "description": "",
+                        "time": "1:30pm-2:30pm",
+                        "location": "Indianapolis Ballroom",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Break",
+                        "description": "",
+                        "time": "2:30pm-2:45pm",
+                        "location": "",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Disaster Recovery",
+                        "description": "",
+                        "time": "2:45pm-3:45pm",
+                        "location": "Indianapolis Ballroom",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Break",
+                        "description": "",
+                        "time": "3:45pm-4pm",
+                        "location": "",
+                        "type": "event",
+                        "link": "/assets/schedule/"
+                    },
+                    {
+                        "name": "Legislative Data Preservation for UELMA",
                         "description": "",
                         "time": "4pm-5pm",
-                        "location": "Location",
+                        "location": "Vincennes Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "On-Prem/Hybrid/Cloud: Why and How",
-                        "category": "Category",
                         "description": "",
                         "time": "4pm-5pm",
-                        "location": "Location",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Social Event",
-                        "category": "Category",
-                        "description": "Lucas Oil Stadium Crown Royal Quarterback Club",
+                        "description": "Join us at the Lucas Oil Stadium for dinner & entertainment with your colleagues.",
                         "time": "6:30pm-8pm",
-                        "location": "Location",
+                        "location": "Lucas Oil Stadium Crown Royal Quarterback Club",
                         "type": "event",
                         "link": "/assets/schedule/"
                     }
@@ -350,79 +341,54 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "category": "Category",
                         "description": "Sign in and get your badge.",
-                        "time": "7:30am-8:30pm",
+                        "time": "7:00am-8:15pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Breakfast",
-                        "category": "Category",
-                        "description": "Grab and Go",
-                        "time": "7:30am-8:30am",
+                        "description": "NALIT gratefully acknowledges our sponsor, International Roll-Call.",
+                        "time": "7:15am-8:15am",
                         "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Walk to State House",
-                        "category": "Category",
-                        "description": "",
-                        "time": "8:30am-8:40am",
-                        "location": "State House",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
                         "name": "Tours and Briefings: Indiana State House",
-                        "category": "Category",
-                        "description": "",
+                        "description": "Meet in the hotel lobby at 8:15 am for the short walk to the Indiana State House.",
                         "time": "8:40am-12pm",
-                        "location": "State House",
+                        "location": "Indiana State House",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Lunch",
-                        "category": "Category",
-                        "description": "Sponsored by Thomas Reuters",
-                        "time": "12pm-1pm",
-                        "location": "State House",
+                        "name": "Lunch: A Taste of Indiana",
+                        "description": "NALIT gratefully acknowledges our sponsor, Thomson Reuters.",
+                        "time": "12pm-1:30pm",
+                        "location": "Indiana State House",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Tours and Briefings: Indiana State House",
-                        "category": "Category",
                         "description": "",
-                        "time": "1:00pm-3:30pm",
-                        "location": "State House",
+                        "time": "1:30pm-3:15pm",
+                        "location": "Indiana State House",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Walk to Indianapolis Hotels and Suites",
-                        "category": "Category",
                         "description": "",
-                        "time": "3:30pm-3:45pm",
+                        "time": "3:30pm",
                         "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
-                        "name": "Smooth Streaming: Webcasts and Webinars",
-                        "category": "Category",
-                        "description": "",
-                        "time": "3:45pm-4:45pm",
-                        "location": "Vincennes Room",
-                        "type": "event",
-                        "link": "/assets/schedule/"
-                    },
-                    {
                         "name": "NALIT Reception and Exhibits",
-                        "category": "Category",
                         "description": "",
                         "time": "5pm-7pm",
                         "location": "Indianapolis Ballroom",
@@ -436,7 +402,6 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "category": "Category",
                         "description": "Sign in and get your badge.",
                         "time": "7:30am-10:30pm",
                         "location": "Indianapolis Foyer",
@@ -445,16 +410,14 @@
                     },
                     {
                         "name": "Breakfast",
-                        "category": "Category",
-                        "description": "",
-                        "time": "7:30am-9:00am",
+                        "description": "NALIT gratefully acknowledges our sponsor, Sliq Media Technologies.",
+                        "time": "7:30am-9am",
                         "location": "Corydon Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "What It Takes to Host a NALIT Seminar",
-                        "category": "Category",
                         "description": "",
                         "time": "8am-8:30am",
                         "location": "Corydon Room",
@@ -463,37 +426,33 @@
                     },
                     {
                         "name": "Standards for Legislative Data",
-                        "category": "Category",
                         "description": "",
                         "time": "8:30am-9:30am",
-                        "location": "Location",
+                        "location": "Vincennes Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Break",
-                        "category": "Category",
                         "description": "",
                         "time": "9:30pm-9:45pm",
-                        "location": "Location",
+                        "location": "",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Services for External Access to Data and Pros and Cons of APIs",
-                        "category": "Category",
                         "description": "",
-                        "time": "10am-11am",
+                        "time": "9:45am-10:30am",
                         "location": "Vincennes Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     },
                     {
                         "name": "Roundtables",
-                        "category": "Category",
                         "description": "",
                         "time": "10:30am-11:30pm",
-                        "location": "Vincennes Room",
+                        "location": "Corydon Room",
                         "type": "event",
                         "link": "/assets/schedule/"
                     }
