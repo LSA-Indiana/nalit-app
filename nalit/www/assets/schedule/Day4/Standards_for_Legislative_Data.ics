@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160915T093000
+UID:5C1FC796-B0B5-4272-9750-B02DFA73DB1E
+DTSTAMP:20160822T204250Z
+LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
+ lis\, IN  46204\, United States
+DESCRIPTION:Vincennes Room\n\nCalls for common data exchange standards f
+ or legislative data are gaining momentum. Hear case studies about how th
+ e Akoma Ntosa standard is being implemented in the United Kingdom and th
+ e U.S. House of Representatives.\nModerator:\n-Terri Clark\, Director of
+  Technical Services\, Legislative Office of Information Services\, Kansa
+ s\nSpeaker:\n-Grant Vergottini\, Co-founder & CEO\, Xcential Legislative
+  Technologies\, California
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Standards for Legislative Data
+DTSTART;TZID=America/Indiana/Indianapolis:20160915T083000
+CREATED:20160822T204002Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=63.5339241027832;X-
+ TITLE="Hilton Indianapolis Hotel & Suites\n120 W Market St, Indianapolis
+ , IN  46204, United States":geo:39.768962,-86.160474
+END:VEVENT
+END:VCALENDAR

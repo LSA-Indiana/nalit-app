@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160913T170000
+UID:6D1C72DB-3FB2-41BE-8D64-37BFEED40A11
+DTSTAMP:20160902T160406Z
+LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
+ lis\, IN  46204\, United States
+DESCRIPTION:Vincennes Room\n\nThe Uniform Electronic Legal Material Act 
+ (UELMA) sets forth specific requirements for the authentication and pres
+ ervation of legislative and legal materials. UELMA has been adopted or i
+ s being considered in several states. Learn about UELMA and technologica
+ l approaches that are used in states to satisfy the authentication requi
+ rement.\nSpeakers:\n-Mendora Servin\, California\n-Jason Judt\, Data Sys
+ tems Project Manager\, Minnesota\n-Daniel Kruse\, Systems Analyst/Progra
+ mmer\, Minnesota\n\n
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Legislative Data Preservation for UELMA
+DTSTART;TZID=America/Indiana/Indianapolis:20160913T160000
+CREATED:20160822T200832Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=63.5339241027832;X-
+ TITLE="Hilton Indianapolis Hotel & Suites\n120 W Market St, Indianapolis
+ , IN  46204, United States":geo:39.768962,-86.160474
+END:VEVENT
+END:VCALENDAR

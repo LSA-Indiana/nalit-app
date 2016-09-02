@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160912T141500
+UID:A31009ED-F1AB-4954-8FA9-CBB9096D4049
+DTSTAMP:20160902T154806Z
+LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
+ lis\, IN  46204\, United States
+DESCRIPTION:Indianapolis Ballroom\n\nTake an informal\, close-up look at
+  the legislative applications just highlighted. Ask in-depth questions a
+ nd share your own experiences and lessons learned with others. \n\n-BRAD
+ \, Rebecca Garcia\, Texas\n-BASE\, Cross Reference System and Interactiv
+ e Maps\, Paul Shelton\, Texas\n-CapCentral Chamber Application\, Amber S
+ nyder\, Texas\n-XML-based Bill Drafting/Editing System\, Brooke Anderson
+ \, Utah\n-others
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Legislative Application Showcase
+DTSTART;TZID=America/Indiana/Indianapolis:20160912T133000
+CREATED:20160822T193705Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=63.5339241027832;X-
+ TITLE="Hilton Indianapolis Hotel & Suites\n120 W Market St, Indianapolis
+ , IN  46204, United States":geo:39.768962,-86.160474
+END:VEVENT
+END:VCALENDAR

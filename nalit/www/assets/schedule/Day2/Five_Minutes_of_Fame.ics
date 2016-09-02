@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160913T123000
+UID:1111F23B-4234-486F-A56E-7CCD0BB1D0E7
+DTSTAMP:20160902T162143Z
+LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
+ lis\, IN  46204\, United States
+DESCRIPTION:Indianapolis Ballroom\n\nHear a concise overview of current 
+ IT projects\, issues and accomplishments in other states. Share your exp
+ eriences and expertise and hear from others for new ideas\, information 
+ or advice. \nFacilitators:\n-Peter Capriglione\, Applications Developmen
+ t Manager\, North Carolina\n-Mark Humphrey\, Texas\n\nParticipants:\n-CO
+ : Manish Jani\n-IN: Jeff Ford\n-KS: Major Chapman\n-MT: Cyndie Lockett\n
+ -NC: Peter Capriglione\n-ND: Kyle Forster\n-TX: Kevin Foley\n-VA H: Paul
+  Pinner\n-VA S: Linda Wettstone
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Five Minutes of Fame
+DTSTART;TZID=America/Indiana/Indianapolis:20160913T111000
+CREATED:20160822T195838Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=63.5339241027832;X-
+ TITLE="Hilton Indianapolis Hotel & Suites\n120 W Market St, Indianapolis
+ , IN  46204, United States":geo:39.768962,-86.160474
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160914T133000
+UID:AAB986C3-55DD-4E79-9849-98413C78246A
+DTSTAMP:20160902T162437Z
+LOCATION:Indiana State House\n200 W Washington St\, Indianapolis\, IN  4
+ 6204\, United States
+DESCRIPTION:NALIT gratefully acknowledges our sponsor\, Thomson Reuters.
+ \n\nKeynote: The FBI/Apple Encryption Debate\nRecent terrorist attacks b
+ rought to the forefront the controversy over law enforcement access to t
+ he encrypted devices and pitted the FBI against Apple. In this session\,
+  we will learn the fascinating details behind the controversy. \n\nSpeak
+ er:\n-Fred H. Cate\, Vice President for Research\, Distinguished Profess
+ or and C. Ben Dutton Professor of Law\; Senior Fellow\, Center for Appli
+ ed Cybersecurity Research\, Indiana University
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Lunch: A Taste of Indiana
+DTSTART;TZID=America/Indiana/Indianapolis:20160914T120000
+CREATED:20160822T202215Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=14159.2822265625;X-
+ TITLE="Indiana State House\n200 W Washington St, Indianapolis, IN  46204
+ , United States":geo:39.768646,-86.162640
+END:VEVENT
+END:VCALENDAR

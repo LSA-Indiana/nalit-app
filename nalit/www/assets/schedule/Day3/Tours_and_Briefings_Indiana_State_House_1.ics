@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160914T120000
+UID:C7F17A42-C788-4125-B3AC-6675048E9413
+DTSTAMP:20160902T161149Z
+LOCATION:Indiana State House\n200 W Washington St\, Indianapolis\, IN  4
+ 6204\, United States
+DESCRIPTION:(Meet in the hotel lobby at 8:15 am for the short walk to th
+ e Indiana State House)\n\n-State House Tour\n-House and Senate Chambers 
+ Tour\n-Captioning of Webcasts\n-Committee Mgmt. System\n-Voting System\n
+ \nTour the beautiful and historic Indiana State House with its marble fl
+ oors\, brass chandeliers and distinctive rotunda dome. Learn about the s
+ ophisticated and innovative technology that supports the essential funct
+ ions of the legislative process in Indiana.\n\nDome tours: Not for the f
+ aint of heart\, climb the spiral staircases leading to the stained glass
+  State House dome. (For dome tours\, attendees must sign up at least one
+  week in advance and sign a release form. Space is limited. Contact Pam 
+ Greenberg for more information or to turn in your signed release form by
+  Sept. 6\, 2016.)
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Tours and Briefings: Indiana State House
+DTSTART;TZID=America/Indiana/Indianapolis:20160914T084000
+CREATED:20160822T201555Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=14159.28268357752;X
+ -TITLE="Indiana State House\n200 W Washington St, Indianapolis, IN  4620
+ 4, United States":geo:39.768646,-86.162640
+END:VEVENT
+END:VCALENDAR

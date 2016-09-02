@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:EDT
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:EST
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Indiana/Indianapolis:20160912T171500
+UID:0385EC46-8282-449F-B7F1-F626C5BE65DC
+DTSTAMP:20160902T155141Z
+LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
+ lis\, IN  46204\, United States
+DESCRIPTION:Indianapolis Ballroom\n\nLearn about NALIT-its structure\, p
+ urposes and traditions. Find out what NALIT can do for you\, how you can
+  participate and what's available on the NALIT website. Meet your peers 
+ from other states and get some helpful tips about how to make the most o
+ f your time in Indianapolis. For first time attendees and anyone who wan
+ ts to learn more about NALIT.
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:Meet & Greet/Orientation to NALIT
+DTSTART;TZID=America/Indiana/Indianapolis:20160912T164500
+CREATED:20160822T194610Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=63.5339241027832;X-
+ TITLE="Hilton Indianapolis Hotel & Suites\n120 W Market St, Indianapolis
+ , IN  46204, United States":geo:39.768962,-86.160474
+END:VEVENT
+END:VCALENDAR
