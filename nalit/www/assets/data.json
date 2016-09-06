@@ -12,22 +12,22 @@
                 "list": [
                     {
                         "name": "Circle Center Food Court",
-                        "description": "Multiple options to eat while you shop.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.simon.com/mall/circle-centre-mall"
                     }, {
                         "name": "Sun King Brewery",
-                        "description": "The largest brewery in Indiana.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.sunkingbrewing.com/"
                     }, {
                         "name": "Slippery Noodle",
-                        "description": "Indiana's oldest bar and home of the Blues.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.slipperynoodle.com/"
                     }, {
                         "name": "St. Elmo Steak House",
-                        "description": "The oldest steakhouse in Indiana.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.stelmos.com/"
                     }, {
@@ -108,27 +108,27 @@
                 "list": [
                     {
                         "name": "Circle Center Mall",
-                        "description": "A variety of shops, just down the street.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.simon.com/mall/circle-centre-mall"
                     }, {
                         "name": "Silver in the City",
-                        "description": "A place to find Indianapolis souveniers.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.silverinthecity.com/"
                     }, {
                         "name": "The Fashion Mall",
-                        "description": "The place to go for high-end shopping.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.simon.com/mall/the-fashion-mall-at-keystone"
                     }, {
                         "name": "Midland Arts and Antiques Market",
-                        "description": "Find one-of-a-kind vintage items.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.midlandathome.com/"
                     }, {
                         "name": "Marsh Supermarket",
-                        "description": "Groceries, personal care items and more.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.marsh.net/"
                     }, {
@@ -149,27 +149,27 @@
                 "list": [
                     {
                         "name": "Indiana State Museum",
-                        "description": "Exhibits featuring natural history, art, and culture.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.indianamuseum.org/"
                     }, {
                         "name": "Indianapolis Zoo",
-                        "description": "View 320 species of animals of 5 different biomes.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.indianapoliszoo.com/SitePages/Home.aspx"
                     }, {
                         "name": "White River State Park",
-                        "description": "Explore the park by foot, bike, or pedal boat.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.inwhiteriver.com/"
                     }, {
                         "name": "Indiana War Memorial",
-                        "description": "A memorial and museum honoring Hoosier veterans.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.indianawarmemorials.org/default.asp"
                     }, {
                         "name": "Benjamin Harrison Presidential Site",
-                        "description": "View historical exhibits and special events.",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.bhpsite.org/"
                     }, {
@@ -228,7 +228,7 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "description": "Sign in and get your badge.",
+                        "description": "",
                         "time": "11am-5pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
@@ -270,7 +270,7 @@
                         "link": "/assets/schedule/Day2/Disaster_Recovery.ics"
                     }, {
                         "name": "Meet & Greet / Orientation to NALIT",
-                        "description": "Meet NALIT Officers & learn about NALIT's structure, purposes & traditions.",
+                        "description": "",
                         "time": "4:45pm-5:15pm",
                         "location": "Indianapolis Ballroom",
                         "type": "event",
@@ -283,7 +283,7 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "description": "If you haven't already, sign in and get your badge.",
+                        "description": "",
                         "time": "7:30am-4:30pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
@@ -367,7 +367,7 @@
                         "link": "/assets/schedule/Day2/On-Prem_Hybrid_Cloud_Why_and_How.ics"
                     }, {
                         "name": "Social Event",
-                        "description": "Join us at the Lucas Oil Stadium for dinner & entertainment with your colleagues.",
+                        "description": "",
                         "time": "6:30pm-9:30pm",
                         "location": "Lucas Oil Stadium Crown Royal Quarterback Club",
                         "type": "event",
@@ -380,7 +380,7 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "description": "Sign in and get your badge.",
+                        "description": "",
                         "time": "7:00am-8:15pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
@@ -428,7 +428,7 @@
                 "list": [
                     {
                         "name": "Registration",
-                        "description": "Sign in and get your badge.",
+                        "description": "",
                         "time": "7:30am-10:30pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
@@ -499,7 +499,7 @@
                         "link": "https://www.google.com/maps/place/1+N+Capitol+Ave,+Indianapolis,+IN+46204/@39.7675849,-86.1635918,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbbf5df57d:0xad29066c30d01c6b!8m2!3d39.7675849!4d-86.1614031"
                     }, {
                         "name": "Lucas Oil Stadium",
-                        "description": "Home of the Indianapolis Colts",
+                        "description": "",
                         "type": "location",
                         "link": "https://www.google.com/maps/place/Lucas+Oil+Stadium/@39.7601007,-86.1660764,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50a5f3e4ada5:0xcc345a26d33f09e1!8m2!3d39.7601007!4d-86.1638877"
                     }
@@ -599,17 +599,17 @@
                 "list": [
                     {
                         "name": "Indiana General Assembly",
-                        "description": "Information about Indiana's General Assembly",
+                        "description": "",
                         "type": "link",
                         "link": "https://iga.in.gov/"
                     }, {
                         "name": "NCLS Website",
-                        "description": "Information about NCLS and NALIT",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.ncsl.org/legislators-staff/legislative-staff/information-technology.aspx"
                     }, {
                         "name": "City of Indianapolis",
-                        "description": "Information about Indianapolis",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.indy.gov/Pages/Home.aspx"
                     }
@@ -619,7 +619,7 @@
                 "list": [
                     {
                         "name": "NALIT 2016 Survey",
-                        "description": "Give NCLS your feedback",
+                        "description": "",
                         "type": "link",
                         "link": "https://survey.ncsl.org/TakeSurvey.aspx?SurveyID=l81Klp3"
                     }
