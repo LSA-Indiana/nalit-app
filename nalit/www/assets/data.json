@@ -116,7 +116,7 @@
                     {
                         "name": "Registration",
                         "description": "Sign in and get your badge.",
-                        "time": "11am-4:30pm",
+                        "time": "11am-5pm",
                         "location": "Indianapolis Foyer",
                         "type": "event",
                         "link": "/assets/schedule/Day1/Registration_Monday.ics"
@@ -168,14 +168,6 @@
                         "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/Day1/Meet_&_Greet_Orientation_to_NALIT.ics"
-                    },
-                    {
-                        "name": "Open Evening",
-                        "description": "Network with colleagues over dinner and explore downtown Indy",
-                        "time": "5:30pm-7pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "/assets/schedule/Day1/Open_Evening.ics"
                     }
                 ]
             }, {
@@ -281,7 +273,7 @@
                     {
                         "name": "Social Event",
                         "description": "Join us at the Lucas Oil Stadium for dinner & entertainment with your colleagues.",
-                        "time": "6:30pm-8pm",
+                        "time": "6:30pm-9:30pm",
                         "location": "Lucas Oil Stadium Crown Royal Quarterback Club",
                         "type": "event",
                         "link": "/assets/schedule/Day2/Social_Event.ics"
@@ -326,7 +318,7 @@
                     {
                         "name": "Tours and Briefings: Indiana State House",
                         "description": "",
-                        "time": "1:30pm-3:15pm",
+                        "time": "2pm-4pm",
                         "location": "Indiana State House",
                         "type": "event",
                         "link": "/assets/schedule/Day3/Tours_and_Briefings_Indiana_State_House_2.ics"
@@ -355,7 +347,7 @@
                     {
                         "name": "Breakfast",
                         "description": "NALIT gratefully acknowledges our sponsor, Sliq Media Technologies.",
-                        "time": "7:30am-9am",
+                        "time": "7:30am-8:30am",
                         "location": "Corydon Room",
                         "type": "event",
                         "link": "/assets/schedule/Day4/Breakfast_Thursday.ics"
@@ -547,30 +539,6 @@
                         "description": "Need links",
                         "type": "link",
                         "link": "http://www.indy.gov/Pages/Home.aspx"
-                    }
-                ]
-            }, {
-                "title": "FAQ",
-                "list": [
-                    {
-                        "name": "Question",
-                        "description": "Need questions and answers"
-                    },
-                    {
-                        "name": "Question",
-                        "description": "Need questions and answers"
-                    },
-                    {
-                        "name": "Question",
-                        "description": "Need questions and answers"
-                    },
-                    {
-                        "name": "Question",
-                        "description": "Need questions and answers"
-                    },
-                    {
-                        "name": "Question",
-                        "description": "Need questions and answers"
                     }
                 ]
             }, {
