@@ -1,6 +1,10 @@
 BEGIN:VCALENDAR
+METHOD:PUBLISH
 VERSION:2.0
+X-WR-CALNAME:Registration_Monday
 PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+X-APPLE-CALENDAR-COLOR:#CC73E1
+X-WR-TIMEZONE:America/New_York
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:America/Indiana/Indianapolis
@@ -23,7 +27,7 @@ BEGIN:VEVENT
 TRANSP:OPAQUE
 DTEND;TZID=America/Indiana/Indianapolis:20160915T103000
 UID:7CF3C178-A4B8-4AFB-98CB-9A958C02083D
-DTSTAMP:20160822T204523Z
+DTSTAMP:20160906T201015Z
 LOCATION:Hilton Indianapolis Hotel & Suites\n120 W Market St\, Indianapo
  lis\, IN  46204\, United States
 DESCRIPTION:Vincennes Room\n\nLegislatures are facing growing demands to
@@ -31,7 +35,7 @@ DESCRIPTION:Vincennes Room\n\nLegislatures are facing growing demands to
  ing legislative data available via APIs and other formats sounds great\,
   but it also creates some challenges. What makes sense for you?\n\nModer
  ator:\n-Kelly Stallings\, North Carolina\nSpeakers:\n-Jeff Ubelhor\, Ind
- iana
+ iana\n-Lynn Meredith\, Sr. Architect\, Thomson Reuters\, Minnesota
 SEQUENCE:0
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 SUMMARY:Services for External Access to Data and Pros and Cons of APIs
