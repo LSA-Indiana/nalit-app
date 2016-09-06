@@ -100,7 +100,7 @@
                         "description": "",
                         "type": "link",
                         "link": "https://www.hubbardandcravens.com/"
-                    },
+                    }
                 ]
             }, {
                 "title": "Shopping",
@@ -536,7 +536,7 @@
                 "list": [
                     {
                         "name": "Uber",
-                        "description": "Request a ride from your phone. ",
+                        "description": "Request a ride from your phone.",
                         "type": "link",
                         "link": "https://www.uber.com/cities/indianapolis/"
                     }, {
@@ -619,7 +619,8 @@
                 "list": [
                     {
                         "name": "NALIT 2016 Survey",
-                        "description": "Give us your feedback",
+                        "description": "Give NCLS your feedback",
+                        "type": "link",
                         "link": "https://survey.ncsl.org/TakeSurvey.aspx?SurveyID=l81Klp3"
                     }
                 ]
