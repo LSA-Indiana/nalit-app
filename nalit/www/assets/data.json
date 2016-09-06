@@ -11,95 +11,95 @@
                 "instructions": "Tap link to open in a new tab.",
                 "list": [
                     {
-                        "name": "Circle Center Food Court",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.simon.com/mall/circle-centre-mall"
-                    }, {
-                        "name": "Sun King Brewery",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.sunkingbrewing.com/"
-                    }, {
-                        "name": "Slippery Noodle",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.slipperynoodle.com/"
-                    }, {
-                        "name": "St. Elmo Steak House",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.stelmos.com/"
-                    }, {
-                        "name": "Café Patachou",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://cafepatachou.com/"
-                    }, {
-                        "name": "Colts Grille",
-                        "description": "",
-                        "type": "link",
-                        "link": "https://coltsgrille.g3restaurants.com/"
-                    }, {
-                        "name": "Weber Grill",
-                        "description": "",
-                        "type": "link",
-                        "link": "https://www.webergrillrestaurant.com/"
-                    }, {
-                        "name": "Granite City Food & Brewery",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.gcfb.com/location/indianapolis-indiana/"
-                    }, {
-                        "name": "The Rathskeller",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.rathskeller.com/"
-                    }, {
-                        "name": "Mesh Restaurant",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.meshrestaurants.com/indianapolis/"
-                    }, {
-                        "name": "The Flying Cupcake",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.theflyingcupcakebakery.com/"
-                    }, {
-                        "name": "Potbelly Sandwich Shop",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.potbelly.com/"
-                    }, {
                         "name": "Au Bon Pain",
                         "description": "",
                         "type": "link",
                         "link": "http://aubonpain.com/"
-                    }, {
-                        "name": "South Bend Chocolate Company",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.sbchocolate.com/"
-                    }, {
-                        "name": "Pearings Café and Frozen Yogurt",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.pearingscafe.com/"
                     }, {
                         "name": "Baxbeaux",
                         "description": "",
                         "type": "link",
                         "link": "http://www.bazbeaux.com/"
                     }, {
-                        "name": "Saffron Café",
+                        "name": "Café Patachou",
                         "description": "",
                         "type": "link",
-                        "link": "http://saffroncafeindy.com/"
+                        "link": "http://cafepatachou.com/"
+                    }, {
+                        "name": "Circle Center Food Court",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.simon.com/mall/circle-centre-mall"
+                    }, {
+                        "name": "Colts Grille",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://coltsgrille.g3restaurants.com/"
+                    }, {
+                        "name": "The Flying Cupcake",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.theflyingcupcakebakery.com/"
+                    }, {
+                        "name": "Granite City Food & Brewery",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.gcfb.com/location/indianapolis-indiana/"
                     }, {
                         "name": "Hubbard and Cravens Coffee and Tea",
                         "description": "",
                         "type": "link",
                         "link": "https://www.hubbardandcravens.com/"
+                    }, {
+                        "name": "Mesh Restaurant",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.meshrestaurants.com/indianapolis/"
+                    }, {
+                        "name": "Pearings Café and Frozen Yogurt",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.pearingscafe.com/"
+                    }, {
+                        "name": "Potbelly Sandwich Shop",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.potbelly.com/"
+                    }, {
+                        "name": "The Rathskeller",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.rathskeller.com/"
+                    }, {
+                        "name": "Saffron Café",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://saffroncafeindy.com/"
+                    }, {
+                        "name": "Slippery Noodle",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.slipperynoodle.com/"
+                    }, {
+                        "name": "South Bend Chocolate Company",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.sbchocolate.com/"
+                    }, {
+                        "name": "St. Elmo Steak House",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.stelmos.com/"
+                    }, {
+                        "name": "Sun King Brewery",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.sunkingbrewing.com/"
+                    }, {
+                        "name": "Weber Grill",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://www.webergrillrestaurant.com/"
                     }
                 ]
             }, {
@@ -112,30 +112,30 @@
                         "type": "link",
                         "link": "http://www.simon.com/mall/circle-centre-mall"
                     }, {
-                        "name": "Silver in the City",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.silverinthecity.com/"
-                    }, {
                         "name": "The Fashion Mall",
                         "description": "",
                         "type": "link",
                         "link": "http://www.simon.com/mall/the-fashion-mall-at-keystone"
                     }, {
-                        "name": "Midland Arts and Antiques Market",
+                        "name": "Global Gifts",
                         "description": "",
                         "type": "link",
-                        "link": "http://www.midlandathome.com/"
+                        "link": "http://www.globalgiftsft.com/"
                     }, {
                         "name": "Marsh Supermarket",
                         "description": "",
                         "type": "link",
                         "link": "http://www.marsh.net/"
                     }, {
-                        "name": "Global Gifts",
+                        "name": "Midland Arts and Antiques Market",
                         "description": "",
                         "type": "link",
-                        "link": "http://www.globalgiftsft.com/"
+                        "link": "http://www.midlandathome.com/"
+                    }, {
+                        "name": "Silver in the City",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.silverinthecity.com/"
                     }, {
                         "name": "Stout's Footwear",
                         "description": "",
@@ -148,70 +148,70 @@
                 "instructions": "Tap link to open in a new tab.",
                 "list": [
                     {
-                        "name": "Indiana State Museum",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.indianamuseum.org/"
-                    }, {
-                        "name": "Indianapolis Zoo",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.indianapoliszoo.com/SitePages/Home.aspx"
-                    }, {
-                        "name": "White River State Park",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.inwhiteriver.com/"
-                    }, {
-                        "name": "Indiana War Memorial",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.indianawarmemorials.org/default.asp"
-                    }, {
                         "name": "Benjamin Harrison Presidential Site",
                         "description": "",
                         "type": "link",
                         "link": "http://www.bhpsite.org/"
-                    }, {
-                        "name": "The Children's Museum of Indianapolis",
-                        "description": "",
-                        "type": "link",
-                        "link": "https://www.childrensmuseum.org/"
-                    }, {
-                        "name": "Escape the Room",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://escapetheroom.com/indianapolis/"
-                    }, {
-                        "name": "Eiteljorg Museum",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.eiteljorg.org/"
-                    }, {
-                        "name": "Indiana Historical Society",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.indianahistory.org/"
-                    }, {
-                        "name": "Indianapolis Museum of Art/Lilly House and Gardens",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.imamuseum.org/"
                     }, {
                         "name": "Central Library",
                         "description": "",
                         "type": "link",
                         "link": "http://www.indypl.org/locations/central"
                     }, {
-                        "name": "Tappers Arcade Bar",
+                        "name": "The Children's Museum of Indianapolis",
                         "description": "",
                         "type": "link",
-                        "link": "http://tappersarcadebar.com/"
+                        "link": "https://www.childrensmuseum.org/"
+                    }, {
+                        "name": "Eiteljorg Museum",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.eiteljorg.org/"
+                    }, {
+                        "name": "Escape the Room",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://escapetheroom.com/indianapolis/"
+                    }, {
+                        "name": "Indiana Historical Society",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indianahistory.org/"
+                    }, {
+                        "name": "Indiana State Museum",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indianamuseum.org/"
+                    }, {
+                        "name": "Indiana War Memorial",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indianawarmemorials.org/default.asp"
+                    }, {
+                        "name": "Indianapolis Museum of Art/Lilly House and Gardens",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.imamuseum.org/"
+                    }, {
+                        "name": "Indianapolis Zoo",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indianapoliszoo.com/SitePages/Home.aspx"
                     }, {
                         "name": "Soldiers & Sailors Monument",
                         "description": "",
                         "type": "link",
                         "link": "http://www.visitindy.com/indianapolis-soldiers-sailors-monument-monument-circle"
+                    }, {
+                        "name": "Tappers Arcade Bar",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://tappersarcadebar.com/"
+                    }, {
+                        "name": "White River State Park",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.inwhiteriver.com/"
                     }
                 ]
             }
@@ -493,15 +493,15 @@
                         "type": "location",
                         "link": "https://www.google.com/maps/place/Indiana+Statehouse+Tour+Office/@39.7685969,-86.1648704,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbba5d1bfd:0x1033326ec52858a0!8m2!3d39.7685969!4d-86.1626817"
                     }, {
-                        "name": "Office of Technology Services",
-                        "description": "",
-                        "type": "location",
-                        "link": "https://www.google.com/maps/place/1+N+Capitol+Ave,+Indianapolis,+IN+46204/@39.7675849,-86.1635918,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbbf5df57d:0xad29066c30d01c6b!8m2!3d39.7675849!4d-86.1614031"
-                    }, {
                         "name": "Lucas Oil Stadium",
                         "description": "",
                         "type": "location",
                         "link": "https://www.google.com/maps/place/Lucas+Oil+Stadium/@39.7601007,-86.1660764,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50a5f3e4ada5:0xcc345a26d33f09e1!8m2!3d39.7601007!4d-86.1638877"
+                    }, {
+                        "name": "Office of Technology Services",
+                        "description": "",
+                        "type": "location",
+                        "link": "https://www.google.com/maps/place/1+N+Capitol+Ave,+Indianapolis,+IN+46204/@39.7675849,-86.1635918,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbbf5df57d:0xad29066c30d01c6b!8m2!3d39.7675849!4d-86.1614031"
                     }
                 ]
             }, {
@@ -535,25 +535,25 @@
                 "instructions": "Tap link to open in a new tab.",
                 "list": [
                     {
-                        "name": "Uber",
-                        "description": "Request a ride from your phone.",
-                        "type": "link",
-                        "link": "https://www.uber.com/cities/indianapolis/"
-                    }, {
-                        "name": "Pacers BikeShare",
-                        "description": "Get around town on two wheels.",
-                        "type": "link",
-                        "link": "https://www.pacersbikeshare.org/"
-                    }, {
                         "name": "BlueIndy Electric Car Share",
-                        "description": "Convenience of cars without the pollution.",
+                        "description": "",
                         "type": "link",
                         "link": "https://www.blue-indy.com/"
                     }, {
                         "name": "IndyGo",
-                        "description": "Indy's public transportation",
+                        "description": "",
                         "type": "link",
                         "link": "http://www.indygo.net/"
+                    }, {
+                        "name": "Pacers BikeShare",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://www.pacersbikeshare.org/"
+                    }, {
+                        "name": "Uber",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://www.uber.com/cities/indianapolis/"
                     }
                 ]
             }, {
@@ -598,6 +598,11 @@
                 "instructions": "Tap link to open in a new tab.",
                 "list": [
                     {
+                       "name": "City of Indianapolis",
+                       "description": "",
+                       "type": "link",
+                       "link": "http://www.indy.gov/Pages/Home.aspx"
+                    }, {
                         "name": "Indiana General Assembly",
                         "description": "",
                         "type": "link",
@@ -607,11 +612,6 @@
                         "description": "",
                         "type": "link",
                         "link": "http://www.ncsl.org/legislators-staff/legislative-staff/information-technology.aspx"
-                    }, {
-                        "name": "City of Indianapolis",
-                        "description": "",
-                        "type": "link",
-                        "link": "http://www.indy.gov/Pages/Home.aspx"
                     }
                 ]
             }, {
