@@ -138,14 +138,6 @@
                         "link": "/assets/schedule/Day1/Legislative_Application_Showcase.ics"
                     },
                     {
-                        "name": "Break",
-                        "description": "",
-                        "time": "2:15pm-2:30pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
-                    },
-                    {
                         "name": "Desktop Support and Client Interaction",
                         "description": "",
                         "time": "2:30pm-3:30pm",
@@ -162,20 +154,12 @@
                         "link": "/assets/schedule/Day1/Mobile_Web_Mobile_Apps.ics"
                     },
                     {
-                        "name": "Break",
+                        "name": "Disaster Recovery",
                         "description": "",
-                        "time": "3:30pm-3:45pm",
-                        "location": "",
+                        "time": "3:45-4:45 p.m.",
+                        "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "#none"
-                    },
-                    {
-                        "name": "From Data to Insights: Data Analysis and Visualization Tools",
-                        "description": "",
-                        "time": "3:45pm-4:45pm",
-                        "location": "Corydon Ballroom",
-                        "type": "event",
-                        "link": "/assets/schedule/Day1/From_Data_to_Insights.ics"
+                        "link": "/assets/schedule/Day2/Disaster_Recovery.ics"
                     },
                     {
                         "name": "Meet & Greet / Orientation to NALIT",
@@ -223,14 +207,6 @@
                         "link": "/assets/schedule/Day2/Opening_Keynote_Session.ics"
                     },
                     {
-                        "name": "Break",
-                        "description": "",
-                        "time": "9:45am-10am",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
-                    },
-                    {
                         "name": "Why Would I Work There?",
                         "description": "",
                         "time": "10am-11am",
@@ -245,14 +221,6 @@
                         "location": "Indianapolis Ballroom",
                         "type": "event",
                         "link": "/assets/schedule/Day2/Wireless_Management_and_Security.ics"
-                    },
-                    {
-                        "name": "Break",
-                        "description": "",
-                        "time": "11am-11:10am",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
                     },
                     {
                         "name": "Five Minutes of Fame",
@@ -287,28 +255,12 @@
                         "link": "/assets/schedule/Day2/IT_Infrastructure_Security.ics"
                     },
                     {
-                        "name": "Break",
-                        "description": "",
-                        "time": "2:30pm-2:45pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
-                    },
-                    {
-                        "name": "Disaster Recovery",
+                        "name": "From Data to Insights: Data Analysis and Visualization Tools",
                         "description": "",
                         "time": "2:45pm-3:45pm",
                         "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "/assets/schedule/Day2/Disaster_Recovery.ics"
-                    },
-                    {
-                        "name": "Break",
-                        "description": "",
-                        "time": "3:45pm-4pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
+                        "link": "/assets/schedule/Day1/From_Data_to_Insights.ics"
                     },
                     {
                         "name": "Legislative Data Preservation for UELMA",
@@ -433,14 +385,6 @@
                         "link": "/assets/schedule/Day4/Standards_for_Legislative_Data.ics"
                     },
                     {
-                        "name": "Break",
-                        "description": "",
-                        "time": "9:30pm-9:45pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
-                    },
-                    {
                         "name": "Services for External Access to Data and Pros and Cons of APIs",
                         "description": "",
                         "time": "9:45am-10:30am",
@@ -470,40 +414,28 @@
                 "instructions": "Tap location to open in maps.",
                 "list": [
                     {
+                        "name": "Hilton Indianapolis Hotel & Suites",
+                        "description": "",
+                        "type": "location",
+                        "link": "https://www.google.com/maps/place/Hilton+Indianapolis+Hotel+%26+Suites/@39.769039,-86.1628237,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbff3adb65:0x882e617817890388!8m2!3d39.769039!4d-86.160635"
+                    },
+                    {
                         "name": "Indiana State House",
                         "description": "",
                         "type": "location",
-                        "link": "https://goo.gl/maps/KTVEZfzzNqR3"
+                        "link": "https://www.google.com/maps/place/Indiana+Statehouse+Tour+Office/@39.7685969,-86.1648704,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbba5d1bfd:0x1033326ec52858a0!8m2!3d39.7685969!4d-86.1626817"
                     },
                     {
                         "name": "Office of Technology Services",
                         "description": "",
                         "type": "location",
-                        "link": "https://goo.gl/maps/k36qGmaUDb73"
-                    },
-                    {
-                        "name": "Hyatt | PNC Center",
-                        "description": "",
-                        "type": "location",
-                        "link": "https://goo.gl/maps/L8ZsxS2dUsN3"
+                        "link": "https://www.google.com/maps/place/1+N+Capitol+Ave,+Indianapolis,+IN+46204/@39.7675849,-86.1635918,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bbbf5df57d:0xad29066c30d01c6b!8m2!3d39.7675849!4d-86.1614031"
                     },
                     {
                         "name": "Lucas Oil Stadium",
                         "description": "Home of the Indianapolis Colts",
                         "type": "location",
-                        "link": "https://goo.gl/maps/RM2Fxb7vS8F3"
-                    },
-                    {
-                        "name": "Banker's Life Fieldhouse",
-                        "description": "Home of the Indianapolis Pacers",
-                        "type": "location",
-                        "link": "https://goo.gl/maps/TnhcGAPYqnH3"
-                    },
-                    {
-                        "name": "Hilton Hotel",
-                        "description": "",
-                        "type": "location",
-                        "link": "https://goo.gl/maps/R3Wu7Rfv87P3"
+                        "link": "https://www.google.com/maps/place/Lucas+Oil+Stadium/@39.7601007,-86.1660764,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50a5f3e4ada5:0xcc345a26d33f09e1!8m2!3d39.7601007!4d-86.1638877"
                     }
                 ]
             }, {
@@ -556,6 +488,12 @@
                         "description": "Convenience of cars without the pollution.",
                         "type": "link",
                         "link": "https://www.blue-indy.com/"
+                    },
+                    {
+                        "name": "IndyGo",
+                        "description": "Indy's public transportation",
+                        "type": "link",
+                        "link": "http://www.indygo.net/"
                     }
                 ]
             }, {
