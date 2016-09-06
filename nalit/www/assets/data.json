@@ -332,14 +332,6 @@
                         "link": "/assets/schedule/Day3/Tours_and_Briefings_Indiana_State_House_2.ics"
                     },
                     {
-                        "name": "Walk to Indianapolis Hotels and Suites",
-                        "description": "",
-                        "time": "3:30pm",
-                        "location": "",
-                        "type": "event",
-                        "link": "#none"
-                    },
-                    {
                         "name": "NALIT Reception and Exhibits",
                         "description": "",
                         "time": "5pm-7pm",
@@ -532,27 +524,6 @@
                         "description": "Need contacts and vcf files",
                         "type": "contact",
                         "link": "/assets/contacts/vcf.vcf"
-                    },
-                    {
-                        "name": "Contact Name",
-                        "phone": "(317) 000-0000",
-                        "description": "Need contacts and vcf files",
-                        "type": "contact",
-                        "link": "/assets/contacts/vcf.vcf"
-                    },
-                    {
-                        "name": "Contact Name",
-                        "phone": "(317) 000-0000",
-                        "description": "Need contacts and vcf files",
-                        "type": "contact",
-                        "link": "/assets/contacts/vcf.vcf"
-                    },
-                    {
-                        "name": "Contact Name",
-                        "phone": "(317) 000-0000",
-                        "description": "Need contacts and vcf files",
-                        "type": "contact",
-                        "link": "/assets/contacts/vcf.vcf"
                     }
                 ]
             }, {
@@ -600,6 +571,15 @@
                     {
                         "name": "Question",
                         "description": "Need questions and answers"
+                    }
+                ]
+            }, {
+                "title": "Survey",
+                "list": [
+                    {
+                        "name": "NALIT 2016 Survey",
+                        "description": "",
+                        "link": "https://survey.ncsl.org/TakeSurvey.aspx?SurveyID=l81Klp3"
                     }
                 ]
             }
