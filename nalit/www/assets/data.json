@@ -297,7 +297,7 @@
                         "time": "3:45-4:45pm",
                         "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "/assets/schedule/Day2/Disaster_Recovery.ics"
+                        "link": "/assets/schedule/Day1/Disaster_Recovery.ics"
                     }, {
                         "name": "Meet & Greet / Orientation to NALIT",
                         "description": "",
@@ -380,7 +380,7 @@
                         "time": "2:45pm-3:45pm",
                         "location": "Indianapolis Ballroom",
                         "type": "event",
-                        "link": "/assets/schedule/Day1/From_Data_to_Insights.ics"
+                        "link": "/assets/schedule/Day2/From_Data_to_Insights.ics"
                     }, {
                         "name": "Legislative Data Preservation for UELMA",
                         "description": "",
