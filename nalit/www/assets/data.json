@@ -41,6 +41,11 @@
                         "type": "link",
                         "link": "http://www.theflyingcupcakebakery.com/"
                     }, {
+                        "name": "Fogo de Chão",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://fogodechao.com/"
+                    }, {
                         "name": "Granite City Food & Brewery",
                         "description": "",
                         "type": "link",
@@ -50,6 +55,11 @@
                         "description": "",
                         "type": "link",
                         "link": "https://www.hubbardandcravens.com/"
+                    }, {
+                        "name": "Indianapolis City Market",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indycm.com/"
                     }, {
                         "name": "Mesh Restaurant",
                         "description": "",
@@ -75,6 +85,11 @@
                         "description": "",
                         "type": "link",
                         "link": "http://saffroncafeindy.com/"
+                    }, {
+                        "name": "Shapiro's Delicatessen",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.shapiros.com/"
                     }, {
                         "name": "Slippery Noodle",
                         "description": "",
@@ -111,6 +126,11 @@
                         "description": "",
                         "type": "link",
                         "link": "http://www.simon.com/mall/circle-centre-mall"
+                    }, {
+                        "name": "CVS",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.cvs.com/store-locator/cvs-pharmacy-address/175+North+Illinois+Street-Indianapolis-IN-46204/storeid=6604?WT.mc_id=LS_GOOGLE_6604"
                     }, {
                         "name": "The Fashion Mall",
                         "description": "",
@@ -188,6 +208,11 @@
                         "type": "link",
                         "link": "http://www.indianawarmemorials.org/default.asp"
                     }, {
+                        "name": "Indianapolis Motor Speedway",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.indianapolismotorspeedway.com/"
+                    }, {
                         "name": "Indianapolis Museum of Art/Lilly House and Gardens",
                         "description": "",
                         "type": "link",
@@ -197,6 +222,11 @@
                         "description": "",
                         "type": "link",
                         "link": "http://www.indianapoliszoo.com/SitePages/Home.aspx"
+                    }, {
+                        "name": "NCAA Hall of Champions",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.ncaahallofchampions.org/index.php"
                     }, {
                         "name": "Soldiers & Sailors Monument",
                         "description": "",
@@ -468,6 +498,14 @@
                         "location": "Corydon Room",
                         "type": "event",
                         "link": "/assets/schedule/Day4/Roundtables.ics"
+                    }
+                ]
+            }, {
+                "title": "Spouses Schedule",
+                "list": [
+                    {
+                        "name": "Download the PDF",
+                        "link": "/assets/schedule/NALIT2016_SpouseSchedule.pdf"
                     }
                 ]
             }
