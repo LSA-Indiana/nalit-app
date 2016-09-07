@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Curtis;Carrie;;;
+FN:Carrie Curtis
+EMAIL;type=INTERNET;type=WORK;type=pref:carrie.curtis@iga.in.gov
+TEL;type=CELL;type=VOICE;type=pref:317-435-9665
+CATEGORIES:NALIT
+UID:1eae3452-4b9c-4abe-a11f-b05eb45feca3
+X-ABUID:46CC142E-9A9C-4F1F-9A4B-ADC8516D698B:ABPerson
+END:VCARD

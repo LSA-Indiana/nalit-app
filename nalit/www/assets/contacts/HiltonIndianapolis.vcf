@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:;;;;
+FN:Hilton Indianapolis
+ORG:Hilton Indianapolis;
+TEL;type=CELL;type=VOICE;type=pref:317-972-0600
+ADR;type=HOME;type=pref:;;120 W Market St.;Indianapolis;IN;46204;
+X-ABShowAs:COMPANY
+CATEGORIES:NALIT
+UID:b4a9194e-d4f1-4bce-9f75-b84b9aa196ed
+X-ABUID:E546440D-7FA1-427C-B855-97B227C82EA6:ABPerson
+END:VCARD

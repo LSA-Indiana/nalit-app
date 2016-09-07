@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Ford;Jeff;;;
+FN:Jeff Ford
+EMAIL;type=INTERNET;type=WORK;type=pref:jeff.ford@iga.in.gov
+TEL;type=CELL;type=VOICE;type=pref:317-339-0424
+CATEGORIES:NALIT
+UID:c9dba610-3588-478e-ae21-5eb95e8dd774
+X-ABUID:7E3DF78A-0C08-4713-971C-C2AA44FBA4B1:ABPerson
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Greenberg;Pam;;;
+FN:Pam Greenberg
+EMAIL;type=INTERNET;type=WORK;type=pref:pam.greenberg@ncsl.org
+TEL;type=CELL;type=VOICE;type=pref:303-731-9855
+CATEGORIES:NALIT
+UID:2bcd204a-2e6a-40ec-8fb5-cde1748ee804
+X-ABUID:F8C3B9FE-0512-48CC-9A4C-DF17EB7269E4:ABPerson
+END:VCARD

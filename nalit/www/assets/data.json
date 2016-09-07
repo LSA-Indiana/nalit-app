@@ -585,28 +585,28 @@
                         "email": "",
                         "description": "Contact the Hilton Hotel",
                         "type": "contact",
-                        "link": "http://www.indianapolishilton.com/contact.shtml"
+                        "link": "/assets/contacts/HiltonIndianapolis.vcf"
                     }, {
                         "name": "Pam Greenberg",
                         "phone": "303-731-9855",
                         "email":"pam.greenberg@ncsl.org",
                         "description": "Contact NCSL for questions",
                         "type": "contact",
-                        "link": "mailto:pam.greenberg@ncsl.org"
+                        "link": "/assets/contacts/PamGreenberg.vcf"
                     }, {
                         "name": "Jeff Ford",
                         "phone": "317-339-0424",
                         "email":"jeff.ford@iga.in.gov",
                         "description": "Contact for Office of Technology Services",
                         "type": "contact",
-                        "link": "mailto:jeff.ford@iga.in.gov"
+                        "link": "/assets/contacts/JeffFord.vcf"
                     }, {
                         "name": "Carrie Curtis",
                         "phone": "317-435-9665",
                         "email":"carrie.curtis@iga.in.gov",
                         "description": "Contact for Office of Technology Services",
                         "type": "contact",
-                        "link": "mailto:carrie.curtis@iga.in.gov"
+                        "link": "/assets/contacts/CarrieCurtis.vcf"
                     }
                 ]
             }, {
