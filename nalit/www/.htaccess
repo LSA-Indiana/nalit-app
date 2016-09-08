@@ -276,7 +276,8 @@ AddDefaultCharset utf-8
                      .webapp \
                      .webmanifest \
                      .xloc \
-                     .xml
+                     .xml \
+                     .ics
 </IfModule>
 
 
