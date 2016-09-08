@@ -9962,8 +9962,7 @@ a.button {
   background: #A1B3CA;
   color: #fff;
   font-size: 11px;
-  text-align: center;
-  display: none; }
+  text-align: center; }
 
 @media screen and (min-width: 360px) {
   .details .icon-container .icon {

@@ -8,7 +8,7 @@
         "sub_items": [
             {
                 "title": "Food and Drinks",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "Au Bon Pain",
@@ -119,7 +119,7 @@
                 ]
             }, {
                 "title": "Shopping",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "Circle Center Mall",
@@ -165,7 +165,7 @@
                 ]
             }, {
                 "title": "Activities",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "Benjamin Harrison Presidential Site",
@@ -254,7 +254,7 @@
         "sub_items": [
             {
                 "title": "Monday, Sept. 12",
-                "instructions": "Tap event to add to calendar.",
+                "instructions": "* On Android 5+, tap and hold to save event.",
                 "list": [
                     {
                         "name": "Registration",
@@ -309,7 +309,7 @@
                 ]
             }, {
                 "title": "Tuesday, Sept. 13",
-                "instructions": "Tap event to add to calendar.",
+                "instructions": "* On Android 5+, tap and hold to save event.",
                 "list": [
                     {
                         "name": "Registration",
@@ -406,7 +406,7 @@
                 ]
             }, {
                 "title": "Wednesday, Sept. 14",
-                "instructions": "Tap event to add to calendar.",
+                "instructions": "* On Android 5+, tap and hold to save event.",
                 "list": [
                     {
                         "name": "Registration",
@@ -454,7 +454,7 @@
                 ]
             }, {
                 "title": "Thursday, Sept. 15",
-                "instructions": "Tap event to add to calendar.",
+                "instructions": "* On Android 5+, tap and hold to save event.",
                 "list": [
                     {
                         "name": "Registration",
@@ -518,7 +518,7 @@
         "sub_items": [
             {
                 "title": "Event Locations",
-                "instructions": "Tap location to open in maps.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "Hilton Indianapolis Hotel & Suites",
@@ -544,7 +544,7 @@
                 ]
             }, {
                 "title": "Indoor Maps",
-                "instructions": "Tap item to open floor plan.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "State House-First Floor",
@@ -570,7 +570,7 @@
                 ]
             }, {
                 "title": "Find a Ride",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "BlueIndy Electric Car Share",
@@ -596,7 +596,7 @@
                 ]
             }, {
                 "title": "Misc",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                         "name": "Map of Downtown",
@@ -615,7 +615,7 @@
         "sub_items": [
             {
                 "title": "Contact Info",
-                "instructions": "Tap contact to see more info.",
+                "instructions": "Tap contact to save to phone.",
                 "list": [
                     {
                         "name": "Hilton Indianapolis",
@@ -649,7 +649,7 @@
                 ]
             }, {
                 "title": "Helpful Links",
-                "instructions": "Tap link to open in a new tab.",
+                "instructions": "",
                 "list": [
                     {
                        "name": "City of Indianapolis",
