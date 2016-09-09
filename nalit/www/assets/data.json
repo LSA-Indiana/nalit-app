@@ -31,6 +31,11 @@
                         "type": "link",
                         "link": "http://www.simon.com/mall/circle-centre-mall"
                     }, {
+                        "name": "ClusterTruck",
+                        "description": "",
+                        "type": "link",
+                        "link": "https://www.clustertruck.com/"
+                    }, {
                         "name": "Colts Grille",
                         "description": "",
                         "type": "link",
