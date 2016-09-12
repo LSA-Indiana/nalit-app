@@ -1,4 +1,4 @@
-# NALIT Conference Web App
+# NALIT Conference App
 
 The NALIT app is a mobile web app built for the NALIT Conference. This app uses the [Ionic Framework](http://ionicframework.com/) and Angular 1.
 
