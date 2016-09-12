@@ -71,6 +71,11 @@
                         "type": "link",
                         "link": "http://www.indycm.com/"
                     }, {
+                        "name": "Jack's Donuts",
+                        "description": "",
+                        "type": "link",
+                        "link": "http://www.jacksdonuts.com/"
+                    }, {
                         "name": "Mesh Restaurant",
                         "description": "",
                         "type": "link",
